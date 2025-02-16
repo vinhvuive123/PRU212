@@ -1,0 +1,964 @@
+fileFormatVersion: 2
+guid: b8e483806490bcb47998b0d9ffc53d10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7588031886418826623
+    second: Bodvar_Loser_0
+  - first:
+      213: 763023935226625137
+    second: Bodvar_Loser_1
+  - first:
+      213: -1262722066046422175
+    second: Bodvar_Loser_2
+  - first:
+      213: 297560231148781210
+    second: Bodvar_Loser_3
+  - first:
+      213: -8384643713691138598
+    second: Bodvar_Loser_4
+  - first:
+      213: -7382700877159855335
+    second: Bodvar_Loser_5
+  - first:
+      213: -6248670309732311195
+    second: Bodvar_Loser_6
+  - first:
+      213: 3315873022181584915
+    second: Bodvar_Loser_7
+  - first:
+      213: -4023525531200618090
+    second: Bodvar_Loser_8
+  - first:
+      213: -842424779595599708
+    second: Bodvar_Loser_9
+  - first:
+      213: 5001859926196845278
+    second: Bodvar_Loser_10
+  - first:
+      213: -5891141289162514625
+    second: Bodvar_Loser_11
+  - first:
+      213: 4000825934916495099
+    second: Bodvar_Loser_12
+  - first:
+      213: 3836470257073446847
+    second: Bodvar_Loser_13
+  - first:
+      213: 6995147108810245410
+    second: Bodvar_Loser_14
+  - first:
+      213: 2984999164013010698
+    second: Bodvar_Loser_15
+  - first:
+      213: -2415490437664919860
+    second: Bodvar_Loser_16
+  - first:
+      213: 2517953365134833037
+    second: Bodvar_Loser_17
+  - first:
+      213: -1851080427997968138
+    second: Bodvar_Loser_18
+  - first:
+      213: 2228100496473677965
+    second: Bodvar_Loser_19
+  - first:
+      213: -637351003030247332
+    second: Bodvar_Loser_20
+  - first:
+      213: 2247169095024725331
+    second: Bodvar_Loser_21
+  - first:
+      213: 1336570242866084333
+    second: Bodvar_Loser_22
+  - first:
+      213: 4714733498458455777
+    second: Bodvar_Loser_23
+  - first:
+      213: 1679197037571873918
+    second: Bodvar_Loser_24
+  - first:
+      213: -8821955710891841363
+    second: Bodvar_Loser_25
+  - first:
+      213: -2056773998178937245
+    second: Bodvar_Loser_26
+  - first:
+      213: -3897316028823521068
+    second: Bodvar_Loser_27
+  - first:
+      213: -5709621734874093624
+    second: Bodvar_Loser_28
+  - first:
+      213: 5842994604489928624
+    second: Bodvar_Loser_29
+  - first:
+      213: -9222870341566310684
+    second: Bodvar_Loser_30
+  - first:
+      213: -3222406067085764747
+    second: Bodvar_Loser_31
+  - first:
+      213: -8444466374093750904
+    second: Bodvar_Loser_32
+  - first:
+      213: 7123040974365954974
+    second: Bodvar_Loser_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bodvar_Loser_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3627
+        width: 191
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a2ba1d335e1b690800000000000000
+      internalID: -7588031886418826623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3620
+        width: 177
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cbd46f93ec69a00800000000000000
+      internalID: 763023935226625137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_2
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 3619
+        width: 166
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163714b98f8e97ee0800000000000000
+      internalID: -1262722066046422175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_3
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 3617
+        width: 162
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ef7e42475212400800000000000000
+      internalID: 297560231148781210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_4
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 3613
+        width: 166
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad54a3557f2c3ab80800000000000000
+      internalID: -8384643713691138598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_5
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 3611
+        width: 174
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b0ceddaa06b8990800000000000000
+      internalID: -7382700877159855335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3038
+        width: 167
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f10edc5734849a0800000000000000
+      internalID: -6248670309732311195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 3036
+        width: 181
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3103f6702f8540e20800000000000000
+      internalID: 3315873022181584915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_8
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 3047
+        width: 196
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6918210d8d09928c0800000000000000
+      internalID: -4023525531200618090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_9
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 3052
+        width: 204
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0b736502b1f44f0800000000000000
+      internalID: -842424779595599708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_10
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 3035
+        width: 186
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda79351a1d2a6540800000000000000
+      internalID: 5001859926196845278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_11
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 3040
+        width: 191
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd4d9c5367e3ea0800000000000000
+      internalID: -5891141289162514625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2477
+        width: 194
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf62ed29df9c58730800000000000000
+      internalID: 4000825934916495099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2477
+        width: 194
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfd6305f51ed3530800000000000000
+      internalID: 3836470257073446847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_14
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2476
+        width: 192
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2254c3ccb31c31160800000000000000
+      internalID: 6995147108810245410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_15
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 2476
+        width: 191
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f55d9ace8dc6920800000000000000
+      internalID: 2984999164013010698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_16
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 2476
+        width: 190
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce21a8ae347a7ed0800000000000000
+      internalID: -2415490437664919860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_17
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 2477
+        width: 189
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d857cd1be3191f220800000000000000
+      internalID: 2517953365134833037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_18
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1907
+        width: 189
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c08e7824af46e0800000000000000
+      internalID: -1851080427997968138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1905
+        width: 187
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d806f28b89dcbee10800000000000000
+      internalID: 2228100496473677965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_20
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1905
+        width: 187
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58a42bb3aca727f0800000000000000
+      internalID: -637351003030247332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_21
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1904
+        width: 186
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d4f2bc26c8f2f10800000000000000
+      internalID: 2247169095024725331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_22
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1904
+        width: 184
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9f36fed837c8210800000000000000
+      internalID: 1336570242866084333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_23
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 1905
+        width: 184
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee304a13291e6140800000000000000
+      internalID: 4714733498458455777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1335
+        width: 184
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c1c541fc4bd4710800000000000000
+      internalID: 1679197037571873918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1334
+        width: 183
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8201c850e129580800000000000000
+      internalID: -8821955710891841363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_26
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1334
+        width: 183
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366d84722fed473e0800000000000000
+      internalID: -2056773998178937245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_27
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1334
+        width: 184
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8b98c78b3f9e9c0800000000000000
+      internalID: -3897316028823521068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_28
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 1335
+        width: 187
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7eaf2784953c0b0800000000000000
+      internalID: -5709621734874093624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_29
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 1335
+        width: 190
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf6521a2ac761150800000000000000
+      internalID: 5842994604489928624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 765
+        width: 190
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e654790a48c10080800000000000000
+      internalID: -9222870341566310684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_31
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 767
+        width: 193
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5771a4941c6b743d0800000000000000
+      internalID: -3222406067085764747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_32
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 767
+        width: 194
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d396ec29a3fca80800000000000000
+      internalID: -8444466374093750904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Loser_33
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 767
+        width: 194
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9392a5d6002ad260800000000000000
+      internalID: 7123040974365954974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bodvar_Loser_0: -7588031886418826623
+      Bodvar_Loser_1: 763023935226625137
+      Bodvar_Loser_10: 5001859926196845278
+      Bodvar_Loser_11: -5891141289162514625
+      Bodvar_Loser_12: 4000825934916495099
+      Bodvar_Loser_13: 3836470257073446847
+      Bodvar_Loser_14: 6995147108810245410
+      Bodvar_Loser_15: 2984999164013010698
+      Bodvar_Loser_16: -2415490437664919860
+      Bodvar_Loser_17: 2517953365134833037
+      Bodvar_Loser_18: -1851080427997968138
+      Bodvar_Loser_19: 2228100496473677965
+      Bodvar_Loser_2: -1262722066046422175
+      Bodvar_Loser_20: -637351003030247332
+      Bodvar_Loser_21: 2247169095024725331
+      Bodvar_Loser_22: 1336570242866084333
+      Bodvar_Loser_23: 4714733498458455777
+      Bodvar_Loser_24: 1679197037571873918
+      Bodvar_Loser_25: -8821955710891841363
+      Bodvar_Loser_26: -2056773998178937245
+      Bodvar_Loser_27: -3897316028823521068
+      Bodvar_Loser_28: -5709621734874093624
+      Bodvar_Loser_29: 5842994604489928624
+      Bodvar_Loser_3: 297560231148781210
+      Bodvar_Loser_30: -9222870341566310684
+      Bodvar_Loser_31: -3222406067085764747
+      Bodvar_Loser_32: -8444466374093750904
+      Bodvar_Loser_33: 7123040974365954974
+      Bodvar_Loser_4: -8384643713691138598
+      Bodvar_Loser_5: -7382700877159855335
+      Bodvar_Loser_6: -6248670309732311195
+      Bodvar_Loser_7: 3315873022181584915
+      Bodvar_Loser_8: -4023525531200618090
+      Bodvar_Loser_9: -842424779595599708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

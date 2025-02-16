@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 5967b732405f438429ba778b997b41bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7961682489305161616
+    second: Thatch_Winer_0
+  - first:
+      213: -3058022698579917946
+    second: Thatch_Winer_1
+  - first:
+      213: 5039848695000621918
+    second: Thatch_Winer_2
+  - first:
+      213: 2600159802708541717
+    second: Thatch_Winer_3
+  - first:
+      213: -9110926062035484439
+    second: Thatch_Winer_4
+  - first:
+      213: -4367692234134424855
+    second: Thatch_Winer_5
+  - first:
+      213: 4854098709428380143
+    second: Thatch_Winer_6
+  - first:
+      213: -7081166171871154306
+    second: Thatch_Winer_7
+  - first:
+      213: -5332725095405892493
+    second: Thatch_Winer_8
+  - first:
+      213: -3647363321852302010
+    second: Thatch_Winer_9
+  - first:
+      213: -4621210256231307037
+    second: Thatch_Winer_10
+  - first:
+      213: -45449286833062966
+    second: Thatch_Winer_11
+  - first:
+      213: -7076240282812777695
+    second: Thatch_Winer_12
+  - first:
+      213: -7570806492037424593
+    second: Thatch_Winer_13
+  - first:
+      213: 3672618235156147380
+    second: Thatch_Winer_14
+  - first:
+      213: 514414132401564301
+    second: Thatch_Winer_15
+  - first:
+      213: 173314864852443471
+    second: Thatch_Winer_16
+  - first:
+      213: 7368459160993416236
+    second: Thatch_Winer_17
+  - first:
+      213: 7820360533075107122
+    second: Thatch_Winer_18
+  - first:
+      213: 473132294533216421
+    second: Thatch_Winer_19
+  - first:
+      213: 2068369568387821337
+    second: Thatch_Winer_20
+  - first:
+      213: -4353479366718156322
+    second: Thatch_Winer_21
+  - first:
+      213: 5711349150056939061
+    second: Thatch_Winer_22
+  - first:
+      213: -1172261759357365172
+    second: Thatch_Winer_23
+  - first:
+      213: 3526340266973420695
+    second: Thatch_Winer_24
+  - first:
+      213: 8948267034435084159
+    second: Thatch_Winer_25
+  - first:
+      213: -3614435270073272451
+    second: Thatch_Winer_26
+  - first:
+      213: 4708385062729826644
+    second: Thatch_Winer_27
+  - first:
+      213: -6464617869762867133
+    second: Thatch_Winer_28
+  - first:
+      213: 8138188144153983431
+    second: Thatch_Winer_29
+  - first:
+      213: -9011140932586796126
+    second: Thatch_Winer_30
+  - first:
+      213: -8115087186082428399
+    second: Thatch_Winer_31
+  - first:
+      213: 6279072652055719726
+    second: Thatch_Winer_32
+  - first:
+      213: 1505640718957462686
+    second: Thatch_Winer_33
+  - first:
+      213: 3735797827881203712
+    second: Thatch_Winer_34
+  - first:
+      213: -5187853135067843586
+    second: Thatch_Winer_35
+  - first:
+      213: -7915463684535255324
+    second: Thatch_Winer_36
+  - first:
+      213: 7914517507608425456
+    second: Thatch_Winer_37
+  - first:
+      213: -8881040865908807023
+    second: Thatch_Winer_38
+  - first:
+      213: -2391855913770684695
+    second: Thatch_Winer_39
+  - first:
+      213: 614997704018330825
+    second: Thatch_Winer_40
+  - first:
+      213: 3460004256429674222
+    second: Thatch_Winer_41
+  - first:
+      213: -4712775851387487358
+    second: Thatch_Winer_42
+  - first:
+      213: -1970569024828514544
+    second: Thatch_Winer_43
+  - first:
+      213: 7067452370859930667
+    second: Thatch_Winer_44
+  - first:
+      213: 2936871494660550185
+    second: Thatch_Winer_45
+  - first:
+      213: 3952678049480868443
+    second: Thatch_Winer_46
+  - first:
+      213: 8256162583390053180
+    second: Thatch_Winer_47
+  - first:
+      213: 541013390416483127
+    second: Thatch_Winer_48
+  - first:
+      213: 7738290096627203814
+    second: Thatch_Winer_49
+  - first:
+      213: 6339310063215866943
+    second: Thatch_Winer_50
+  - first:
+      213: 128265684965100839
+    second: Thatch_Winer_51
+  - first:
+      213: -4049483170018320657
+    second: Thatch_Winer_52
+  - first:
+      213: -8290190331671334214
+    second: Thatch_Winer_53
+  - first:
+      213: 775462765487072401
+    second: Thatch_Winer_54
+  - first:
+      213: -2562912304898750626
+    second: Thatch_Winer_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thatch_Winer_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3657
+        width: 400
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5b7d8a049d7e60800000000000000
+      internalID: 7961682489305161616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_1
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3652
+        width: 400
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6830018ce88bf85d0800000000000000
+      internalID: -3058022698579917946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_2
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 3660
+        width: 400
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e536a339fa321f540800000000000000
+      internalID: 5039848695000621918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_3
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 3642
+        width: 400
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51141b7709f951420800000000000000
+      internalID: 2600159802708541717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_4
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 3585
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0c681b40d7f8180800000000000000
+      internalID: -9110926062035484439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2998
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e27f28dd07d263c0800000000000000
+      internalID: -4367692234134424855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_6
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2972
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12920ee093d5340800000000000000
+      internalID: 4854098709428380143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_7
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 2958
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6b1262e4aabd90800000000000000
+      internalID: -7081166171871154306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_8
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 2974
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c458b97ca5ef5b0800000000000000
+      internalID: -5332725095405892493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_9
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2987
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d64322266f16dc0800000000000000
+      internalID: -3647363321852302010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2452
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb350b4d188e5ff0800000000000000
+      internalID: -45449286833062966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2481
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b72ad44f42ccd90800000000000000
+      internalID: -7076240282812777695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_14
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 2482
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcaa1693d2c7f230800000000000000
+      internalID: 3672618235156147380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_16
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 2484
+        width: 400
+        height: 400
+      alignment: 9
+      pivot: {x: 0.40531775, y: 0.5224653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4123d983fcb76200800000000000000
+      internalID: 173314864852443471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_18
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2493
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d1d658870878c60800000000000000
+      internalID: 7820360533075107122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1927
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44dab9042a4bbfe0800000000000000
+      internalID: -1172261759357365172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_24
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1925
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c5b1a1ac310f030800000000000000
+      internalID: 3526340266973420695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_26
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1924
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77b3af9542f6ddc0800000000000000
+      internalID: -3614435270073272451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_28
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1934
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34054286c401946a0800000000000000
+      internalID: -6464617869762867133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_31
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1933
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a8b38233b616f80800000000000000
+      internalID: -8115087186082428399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1360
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eee7c118bb6eced0800000000000000
+      internalID: -2391855913770684695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_40
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1352
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c481b54729e88800800000000000000
+      internalID: 614997704018330825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_42
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1350
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7200255bd89eb0800000000000000
+      internalID: -4712775851387487358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_44
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1343
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2439108c72a41260800000000000000
+      internalID: 7067452370859930667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_45
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1338
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e663e601dd1c820800000000000000
+      internalID: 2936871494660550185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_50
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 771
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f347a075ae0c9f750800000000000000
+      internalID: 6339310063215866943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_53
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 780
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab23a5011d353fc80800000000000000
+      internalID: -8290190331671334214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Winer_55
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 790
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57480c66d4be6cd0800000000000000
+      internalID: -2562912304898750626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8a9b9f72b2ae9dd49aa1e4d3d13ff57f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Thatch_Winer_29: -918299572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

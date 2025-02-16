@@ -1,0 +1,989 @@
+fileFormatVersion: 2
+guid: 3a8d3a8393f6fe04d922c07e6522325b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6839952248226192724
+    second: Bodvar_hightlight_0
+  - first:
+      213: -2646749187856097656
+    second: Bodvar_hightlight_1
+  - first:
+      213: -2801611233416710316
+    second: Bodvar_hightlight_2
+  - first:
+      213: 2269516466663473024
+    second: Bodvar_hightlight_3
+  - first:
+      213: 5533404714298396708
+    second: Bodvar_hightlight_4
+  - first:
+      213: -7349739349344117143
+    second: Bodvar_hightlight_5
+  - first:
+      213: -8406833130925785084
+    second: Bodvar_hightlight_6
+  - first:
+      213: 6324213928108882424
+    second: Bodvar_hightlight_7
+  - first:
+      213: 707149622851760679
+    second: Bodvar_hightlight_8
+  - first:
+      213: -7394114497366723245
+    second: Bodvar_hightlight_9
+  - first:
+      213: 6186415915761072213
+    second: Bodvar_hightlight_10
+  - first:
+      213: 1365730885802588003
+    second: Bodvar_hightlight_11
+  - first:
+      213: -3799224781012195274
+    second: Bodvar_hightlight_12
+  - first:
+      213: 7479483951167835555
+    second: Bodvar_hightlight_13
+  - first:
+      213: -1876393699474989642
+    second: Bodvar_hightlight_14
+  - first:
+      213: 2364543478208358978
+    second: Bodvar_hightlight_15
+  - first:
+      213: -399688379853858884
+    second: Bodvar_hightlight_16
+  - first:
+      213: 3397404600421291411
+    second: Bodvar_hightlight_17
+  - first:
+      213: 1591812915871533745
+    second: Bodvar_hightlight_18
+  - first:
+      213: -1440101368352526340
+    second: Bodvar_hightlight_19
+  - first:
+      213: 2419123657233508194
+    second: Bodvar_hightlight_20
+  - first:
+      213: 1356330214171565079
+    second: Bodvar_hightlight_21
+  - first:
+      213: 7418981000813599690
+    second: Bodvar_hightlight_22
+  - first:
+      213: -6989286337763196227
+    second: Bodvar_hightlight_23
+  - first:
+      213: -3546409150968923279
+    second: Bodvar_hightlight_24
+  - first:
+      213: 1529220600991786146
+    second: Bodvar_hightlight_25
+  - first:
+      213: -809159818000501404
+    second: Bodvar_hightlight_26
+  - first:
+      213: -6605150146377564061
+    second: Bodvar_hightlight_27
+  - first:
+      213: -2918833839142608959
+    second: Bodvar_hightlight_28
+  - first:
+      213: -6078831449633285176
+    second: Bodvar_hightlight_29
+  - first:
+      213: 2614277245334301979
+    second: Bodvar_hightlight_30
+  - first:
+      213: 7745700808038748602
+    second: Bodvar_hightlight_31
+  - first:
+      213: 8937751761406255503
+    second: Bodvar_hightlight_32
+  - first:
+      213: -5854629740423242372
+    second: Bodvar_hightlight_33
+  - first:
+      213: -5384763411363184481
+    second: Bodvar_hightlight_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bodvar_hightlight_0
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2465
+        width: 128
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d182484546cee50800000000000000
+      internalID: 6839952248226192724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_1
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2465
+        width: 128
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e984003abd44bd0800000000000000
+      internalID: -2646749187856097656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_2
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2465
+        width: 124
+        height: 227
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457f3714d6dae19d0800000000000000
+      internalID: -2801611233416710316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_3
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2465
+        width: 156
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f3067b331fe7f10800000000000000
+      internalID: 2269516466663473024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_4
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2465
+        width: 187
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4205a3a354a9acc40800000000000000
+      internalID: 5533404714298396708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_5
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 2465
+        width: 199
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e12aa900b700a90800000000000000
+      internalID: -7349739349344117143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2116
+        width: 289
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4000f290fcde45b80800000000000000
+      internalID: -8406833130925785084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2116
+        width: 248
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9f18c7f0f14c750800000000000000
+      internalID: 6324213928108882424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_8
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2116
+        width: 217
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7227129d5dc40d900800000000000000
+      internalID: 707149622851760679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_9
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2116
+        width: 206
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355f3e35a04d26990800000000000000
+      internalID: -7394114497366723245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_10
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 2116
+        width: 250
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558f2c39f709ad550800000000000000
+      internalID: 6186415915761072213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_11
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2116
+        width: 275
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367fa03310d04f210800000000000000
+      internalID: 1365730885802588003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1744
+        width: 256
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63828e9d031764bc0800000000000000
+      internalID: -3799224781012195274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1744
+        width: 235
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad089c86077cc760800000000000000
+      internalID: 7479483951167835555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_14
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1744
+        width: 232
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd13043fd5b5f5e0800000000000000
+      internalID: -1876393699474989642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_15
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1744
+        width: 232
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a639af3cb80d020800000000000000
+      internalID: 2364543478208358978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_16
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1744
+        width: 233
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb795f14985047af0800000000000000
+      internalID: -399688379853858884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_17
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 1744
+        width: 233
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395936edb71062f20800000000000000
+      internalID: 3397404600421291411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1366
+        width: 234
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac667c961471610800000000000000
+      internalID: 1591812915871533745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1366
+        width: 233
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff2bca7f6bb30ce0800000000000000
+      internalID: -1440101368352526340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1366
+        width: 234
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267a5213624729120800000000000000
+      internalID: 2419123657233508194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_21
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1366
+        width: 234
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c53d5c427a2d210800000000000000
+      internalID: 1356330214171565079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_22
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1366
+        width: 235
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbdddca9e385f660800000000000000
+      internalID: 7418981000813599690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_23
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 1366
+        width: 233
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2422c4b11110f90800000000000000
+      internalID: -6989286337763196227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 991
+        width: 234
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7d48baaf98cec0800000000000000
+      internalID: -3546409150968923279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_25
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 991
+        width: 235
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a42351d802e83510800000000000000
+      internalID: 1529220600991786146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_26
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 991
+        width: 232
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4657f81ce6945c4f0800000000000000
+      internalID: -809159818000501404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_27
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 991
+        width: 234
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360cb0dffeac554a0800000000000000
+      internalID: -6605150146377564061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_28
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 991
+        width: 233
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd38386183e77d0800000000000000
+      internalID: -2918833839142608959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_29
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 991
+        width: 233
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb922be007a3aba0800000000000000
+      internalID: -6078831449633285176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 616
+        width: 234
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1da988bd47c74420800000000000000
+      internalID: 2614277245334301979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_31
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 616
+        width: 233
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab11b9fa8d14e7b60800000000000000
+      internalID: 7745700808038748602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_32
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 616
+        width: 234
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81ed3d6fd5490c70800000000000000
+      internalID: 8937751761406255503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_33
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 616
+        width: 232
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d92ae254d20cea0800000000000000
+      internalID: -5854629740423242372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_hightlight_34
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 616
+        width: 234
+        height: 196
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904d22053a7545b0800000000000000
+      internalID: -5384763411363184481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dc32385a655412a49aaae8ff5e32ff4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bodvar_hightlight_0: 6839952248226192724
+      Bodvar_hightlight_1: -2646749187856097656
+      Bodvar_hightlight_10: 6186415915761072213
+      Bodvar_hightlight_11: 1365730885802588003
+      Bodvar_hightlight_12: -3799224781012195274
+      Bodvar_hightlight_13: 7479483951167835555
+      Bodvar_hightlight_14: -1876393699474989642
+      Bodvar_hightlight_15: 2364543478208358978
+      Bodvar_hightlight_16: -399688379853858884
+      Bodvar_hightlight_17: 3397404600421291411
+      Bodvar_hightlight_18: 1591812915871533745
+      Bodvar_hightlight_19: -1440101368352526340
+      Bodvar_hightlight_2: -2801611233416710316
+      Bodvar_hightlight_20: 2419123657233508194
+      Bodvar_hightlight_21: 1356330214171565079
+      Bodvar_hightlight_22: 7418981000813599690
+      Bodvar_hightlight_23: -6989286337763196227
+      Bodvar_hightlight_24: -3546409150968923279
+      Bodvar_hightlight_25: 1529220600991786146
+      Bodvar_hightlight_26: -809159818000501404
+      Bodvar_hightlight_27: -6605150146377564061
+      Bodvar_hightlight_28: -2918833839142608959
+      Bodvar_hightlight_29: -6078831449633285176
+      Bodvar_hightlight_3: 2269516466663473024
+      Bodvar_hightlight_30: 2614277245334301979
+      Bodvar_hightlight_31: 7745700808038748602
+      Bodvar_hightlight_32: 8937751761406255503
+      Bodvar_hightlight_33: -5854629740423242372
+      Bodvar_hightlight_34: -5384763411363184481
+      Bodvar_hightlight_4: 5533404714298396708
+      Bodvar_hightlight_5: -7349739349344117143
+      Bodvar_hightlight_6: -8406833130925785084
+      Bodvar_hightlight_7: 6324213928108882424
+      Bodvar_hightlight_8: 707149622851760679
+      Bodvar_hightlight_9: -7394114497366723245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

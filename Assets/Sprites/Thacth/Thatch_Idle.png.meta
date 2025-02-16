@@ -1,0 +1,889 @@
+fileFormatVersion: 2
+guid: 601349755b5edd8409a7dff5f7563d18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1848980939107269299
+    second: Thatch_Idle_0
+  - first:
+      213: -1952344777532972427
+    second: Thatch_Idle_1
+  - first:
+      213: -7757630502584598885
+    second: Thatch_Idle_2
+  - first:
+      213: 5693104082651796840
+    second: Thatch_Idle_3
+  - first:
+      213: -3519212655143384136
+    second: Thatch_Idle_4
+  - first:
+      213: -3261978346115369457
+    second: Thatch_Idle_5
+  - first:
+      213: 755019250809384297
+    second: Thatch_Idle_6
+  - first:
+      213: 9201352395004567439
+    second: Thatch_Idle_7
+  - first:
+      213: 6846276467589216272
+    second: Thatch_Idle_8
+  - first:
+      213: -4122160967788195616
+    second: Thatch_Idle_9
+  - first:
+      213: 1852566270294707277
+    second: Thatch_Idle_10
+  - first:
+      213: 6606451662072065314
+    second: Thatch_Idle_11
+  - first:
+      213: 5137296420750880662
+    second: Thatch_Idle_12
+  - first:
+      213: -9028766942491767733
+    second: Thatch_Idle_13
+  - first:
+      213: -601773303293124409
+    second: Thatch_Idle_14
+  - first:
+      213: -1892083968790814075
+    second: Thatch_Idle_15
+  - first:
+      213: -6849239784421479097
+    second: Thatch_Idle_16
+  - first:
+      213: 9089512326968307597
+    second: Thatch_Idle_17
+  - first:
+      213: 8660205234740983284
+    second: Thatch_Idle_18
+  - first:
+      213: 8065561362937682611
+    second: Thatch_Idle_19
+  - first:
+      213: -3944123284208684606
+    second: Thatch_Idle_20
+  - first:
+      213: -4385297075419101744
+    second: Thatch_Idle_21
+  - first:
+      213: -4644019379148440893
+    second: Thatch_Idle_22
+  - first:
+      213: -6513125731817955536
+    second: Thatch_Idle_23
+  - first:
+      213: -1479816416887564485
+    second: Thatch_Idle_24
+  - first:
+      213: -6571889896644031954
+    second: Thatch_Idle_25
+  - first:
+      213: 1734139263919811594
+    second: Thatch_Idle_26
+  - first:
+      213: -4312884849066849721
+    second: Thatch_Idle_27
+  - first:
+      213: 3415414846891457675
+    second: Thatch_Idle_28
+  - first:
+      213: -7561579578403196899
+    second: Thatch_Idle_29
+  - first:
+      213: 6070196452926346731
+    second: Thatch_Idle_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thatch_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2364
+        width: 153
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d450b08d1a91756e0800000000000000
+      internalID: -1848980939107269299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2364
+        width: 153
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572ee00d4c0e7e4e0800000000000000
+      internalID: -1952344777532972427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2364
+        width: 153
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eb5bad82c575490800000000000000
+      internalID: -7757630502584598885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2364
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86559c3fff7f10f40800000000000000
+      internalID: 5693104082651796840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2364
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb8e195cbe392fc0800000000000000
+      internalID: -3519212655143384136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2364
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06f6c61aff1bb2d0800000000000000
+      internalID: -3261978346115369457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2041
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2313220e5a7a00800000000000000
+      internalID: 755019250809384297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2041
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fdf6d9045c1bf70800000000000000
+      internalID: 9201352395004567439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2041
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01875c49c2cd20f50800000000000000
+      internalID: 6846276467589216272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2040
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e01100a0742bc6c0800000000000000
+      internalID: -4122160967788195616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2040
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c49cf1533a5b910800000000000000
+      internalID: 1852566270294707277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2040
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d289fb8c4deab50800000000000000
+      internalID: 6606451662072065314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1717
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fedb840e75b4740800000000000000
+      internalID: 5137296420750880662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1717
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c0df06d4063b280800000000000000
+      internalID: -9028766942491767733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1717
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c066e57e5216a7f0800000000000000
+      internalID: -601773303293124409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1717
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5822303b7a7fdb5e0800000000000000
+      internalID: -1892083968790814075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1717
+        width: 155
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74da51474bc92f0a0800000000000000
+      internalID: -6849239784421479097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1717
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fea769d4f642e70800000000000000
+      internalID: 9089512326968307597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1394
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5f6baf6ca3f2870800000000000000
+      internalID: 8660205234740983284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1394
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba14009351aeef60800000000000000
+      internalID: 8065561362937682611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1394
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1f46615c8a349c0800000000000000
+      internalID: -3944123284208684606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1394
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5c5115b8b4423c0800000000000000
+      internalID: -4385297075419101744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1394
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cab3dfcaf02d8fb0800000000000000
+      internalID: -4644019379148440893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1394
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fd889a7aabc95a0800000000000000
+      internalID: -6513125731817955536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1071
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3710aa2fc2a67be0800000000000000
+      internalID: -1479816416887564485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1071
+        width: 154
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2acd8755f4fbc4a0800000000000000
+      internalID: -6571889896644031954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1072
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c6ff00976e01810800000000000000
+      internalID: 1734139263919811594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1072
+        width: 154
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ac436941e8524c0800000000000000
+      internalID: -4312884849066849721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1072
+        width: 153
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7f8525bdf56f20800000000000000
+      internalID: 3415414846891457675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1072
+        width: 153
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10fd68bf6fdf0790800000000000000
+      internalID: -7561579578403196899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 749
+        width: 153
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5d28d338bad3450800000000000000
+      internalID: 6070196452926346731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Thatch_Idle_0: -1848980939107269299
+      Thatch_Idle_1: -1952344777532972427
+      Thatch_Idle_10: 1852566270294707277
+      Thatch_Idle_11: 6606451662072065314
+      Thatch_Idle_12: 5137296420750880662
+      Thatch_Idle_13: -9028766942491767733
+      Thatch_Idle_14: -601773303293124409
+      Thatch_Idle_15: -1892083968790814075
+      Thatch_Idle_16: -6849239784421479097
+      Thatch_Idle_17: 9089512326968307597
+      Thatch_Idle_18: 8660205234740983284
+      Thatch_Idle_19: 8065561362937682611
+      Thatch_Idle_2: -7757630502584598885
+      Thatch_Idle_20: -3944123284208684606
+      Thatch_Idle_21: -4385297075419101744
+      Thatch_Idle_22: -4644019379148440893
+      Thatch_Idle_23: -6513125731817955536
+      Thatch_Idle_24: -1479816416887564485
+      Thatch_Idle_25: -6571889896644031954
+      Thatch_Idle_26: 1734139263919811594
+      Thatch_Idle_27: -4312884849066849721
+      Thatch_Idle_28: 3415414846891457675
+      Thatch_Idle_29: -7561579578403196899
+      Thatch_Idle_3: 5693104082651796840
+      Thatch_Idle_30: 6070196452926346731
+      Thatch_Idle_4: -3519212655143384136
+      Thatch_Idle_5: -3261978346115369457
+      Thatch_Idle_6: 755019250809384297
+      Thatch_Idle_7: 9201352395004567439
+      Thatch_Idle_8: 6846276467589216272
+      Thatch_Idle_9: -4122160967788195616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

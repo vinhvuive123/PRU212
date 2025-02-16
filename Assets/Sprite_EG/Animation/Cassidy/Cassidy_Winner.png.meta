@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 08cadf32d2eacb34fa3d6f4cb418aff2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2500255849107356221
+    second: Cassidy_Winner_0
+  - first:
+      213: -8136419347998617401
+    second: Cassidy_Winner_1
+  - first:
+      213: 5986002041814536514
+    second: Cassidy_Winner_2
+  - first:
+      213: -4957146151589754831
+    second: Cassidy_Winner_3
+  - first:
+      213: -7642253254095946852
+    second: Cassidy_Winner_4
+  - first:
+      213: 5183833569527429680
+    second: Cassidy_Winner_5
+  - first:
+      213: -3466232540814549617
+    second: Cassidy_Winner_6
+  - first:
+      213: -2760908776211531901
+    second: Cassidy_Winner_7
+  - first:
+      213: 308932425433230984
+    second: Cassidy_Winner_8
+  - first:
+      213: 7944637167289104907
+    second: Cassidy_Winner_9
+  - first:
+      213: 2934420409827286882
+    second: Cassidy_Winner_10
+  - first:
+      213: 5440619237789983834
+    second: Cassidy_Winner_11
+  - first:
+      213: 4613399971105231509
+    second: Cassidy_Winner_12
+  - first:
+      213: -2405140343690034231
+    second: Cassidy_Winner_13
+  - first:
+      213: -5979825982304829704
+    second: Cassidy_Winner_14
+  - first:
+      213: -5577450511518690566
+    second: Cassidy_Winner_15
+  - first:
+      213: -2753098217086588817
+    second: Cassidy_Winner_16
+  - first:
+      213: 7044611217013270820
+    second: Cassidy_Winner_17
+  - first:
+      213: -8526047853969435821
+    second: Cassidy_Winner_18
+  - first:
+      213: -5835901931608723362
+    second: Cassidy_Winner_19
+  - first:
+      213: -8796844750111406159
+    second: Cassidy_Winner_20
+  - first:
+      213: -2044494811138148430
+    second: Cassidy_Winner_21
+  - first:
+      213: -3105722250317927417
+    second: Cassidy_Winner_22
+  - first:
+      213: 1237427227586685137
+    second: Cassidy_Winner_23
+  - first:
+      213: 6504414951853926632
+    second: Cassidy_Winner_24
+  - first:
+      213: 7502859918936806799
+    second: Cassidy_Winner_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cassidy_Winner_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2595
+        width: 195
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3af2a5a271b2b220800000000000000
+      internalID: 2500255849107356221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2595
+        width: 188
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c05dea26b1a51f80800000000000000
+      internalID: -8136419347998617401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2595
+        width: 184
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2415e1f442d821350800000000000000
+      internalID: 5986002041814536514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_3
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2595
+        width: 184
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384cc6d6dda43bb0800000000000000
+      internalID: -4957146151589754831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_4
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2595
+        width: 179
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb902e72341f590800000000000000
+      internalID: -7642253254095946852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_5
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2595
+        width: 182
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a7d669a2da0f740800000000000000
+      internalID: 5183833569527429680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_6
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2595
+        width: 184
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d59d77ed775efc0800000000000000
+      internalID: -3466232540814549617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2089
+        width: 194
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38737a098184fa9d0800000000000000
+      internalID: -2760908776211531901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2089
+        width: 197
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e2c85776c894400800000000000000
+      internalID: 308932425433230984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2089
+        width: 190
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0af1a14965014e60800000000000000
+      internalID: 7944637167289104907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_10
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2089
+        width: 183
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5965c0d729b820800000000000000
+      internalID: 2934420409827286882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_11
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2089
+        width: 180
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54e0a20f56f08b40800000000000000
+      internalID: 5440619237789983834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_12
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2089
+        width: 184
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5925684b4d6160040800000000000000
+      internalID: 4613399971105231509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_13
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 2089
+        width: 190
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30563b9993f9ed0800000000000000
+      internalID: -2405140343690034231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1642
+        width: 184
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb11a93f3630da0800000000000000
+      internalID: -5979825982304829704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1642
+        width: 184
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af29b947f4ae892b0800000000000000
+      internalID: -5577450511518690566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1642
+        width: 180
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68eac212c70bc9d0800000000000000
+      internalID: -2753098217086588817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_17
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1642
+        width: 174
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429eec2f39c73c160800000000000000
+      internalID: 7044611217013270820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_18
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1642
+        width: 191
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3539b2656a46da980800000000000000
+      internalID: -8526047853969435821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_19
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1642
+        width: 208
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e503276fc16b20fa0800000000000000
+      internalID: -5835901931608723362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_20
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1642
+        width: 196
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b78955be445be580800000000000000
+      internalID: -8796844750111406159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_21
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1225
+        width: 183
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b73bfc2dce70a3e0800000000000000
+      internalID: -2044494811138148430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1225
+        width: 186
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ce5c2711246e4d0800000000000000
+      internalID: -3105722250317927417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_23
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1225
+        width: 188
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d863bfd1893c2110800000000000000
+      internalID: 1237427227586685137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_24
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1225
+        width: 188
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e82ef4dfe2544a50800000000000000
+      internalID: 6504414951853926632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Winner_25
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1225
+        width: 188
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f859ebb28538f1860800000000000000
+      internalID: 7502859918936806799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cassidy_Winner_0: 2500255849107356221
+      Cassidy_Winner_1: -8136419347998617401
+      Cassidy_Winner_10: 2934420409827286882
+      Cassidy_Winner_11: 5440619237789983834
+      Cassidy_Winner_12: 4613399971105231509
+      Cassidy_Winner_13: -2405140343690034231
+      Cassidy_Winner_14: -5979825982304829704
+      Cassidy_Winner_15: -5577450511518690566
+      Cassidy_Winner_16: -2753098217086588817
+      Cassidy_Winner_17: 7044611217013270820
+      Cassidy_Winner_18: -8526047853969435821
+      Cassidy_Winner_19: -5835901931608723362
+      Cassidy_Winner_2: 5986002041814536514
+      Cassidy_Winner_20: -8796844750111406159
+      Cassidy_Winner_21: -2044494811138148430
+      Cassidy_Winner_22: -3105722250317927417
+      Cassidy_Winner_23: 1237427227586685137
+      Cassidy_Winner_24: 6504414951853926632
+      Cassidy_Winner_25: 7502859918936806799
+      Cassidy_Winner_3: -4957146151589754831
+      Cassidy_Winner_4: -7642253254095946852
+      Cassidy_Winner_5: 5183833569527429680
+      Cassidy_Winner_6: -3466232540814549617
+      Cassidy_Winner_7: -2760908776211531901
+      Cassidy_Winner_8: 308932425433230984
+      Cassidy_Winner_9: 7944637167289104907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

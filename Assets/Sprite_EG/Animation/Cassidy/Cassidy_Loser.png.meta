@@ -1,0 +1,1381 @@
+fileFormatVersion: 2
+guid: fe1dc7e3f1bf2b640b1deff7d99bfac3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3210063246328497332
+    second: Cassidy_Loser_0
+  - first:
+      213: -4443074243469746448
+    second: Cassidy_Loser_1
+  - first:
+      213: -5560285576351861248
+    second: Cassidy_Loser_2
+  - first:
+      213: -5299174362652673387
+    second: Cassidy_Loser_3
+  - first:
+      213: -2532576193959628919
+    second: Cassidy_Loser_4
+  - first:
+      213: -6062181706920684113
+    second: Cassidy_Loser_5
+  - first:
+      213: -8078551878975377315
+    second: Cassidy_Loser_6
+  - first:
+      213: 7502058439088040457
+    second: Cassidy_Loser_7
+  - first:
+      213: -6147055875069377767
+    second: Cassidy_Loser_8
+  - first:
+      213: 8145456066484654971
+    second: Cassidy_Loser_9
+  - first:
+      213: -2491156343262563039
+    second: Cassidy_Loser_10
+  - first:
+      213: -5300065949263128709
+    second: Cassidy_Loser_11
+  - first:
+      213: -2739765808858795206
+    second: Cassidy_Loser_12
+  - first:
+      213: -2675933792828805743
+    second: Cassidy_Loser_13
+  - first:
+      213: -6344706199233740509
+    second: Cassidy_Loser_14
+  - first:
+      213: 2209121434908844392
+    second: Cassidy_Loser_15
+  - first:
+      213: 5579662950469904560
+    second: Cassidy_Loser_16
+  - first:
+      213: 3357765562843877243
+    second: Cassidy_Loser_17
+  - first:
+      213: 8416118994673598820
+    second: Cassidy_Loser_18
+  - first:
+      213: 5821869585321863971
+    second: Cassidy_Loser_19
+  - first:
+      213: 2956712347413068222
+    second: Cassidy_Loser_20
+  - first:
+      213: -8629589212820586284
+    second: Cassidy_Loser_21
+  - first:
+      213: 1748321485620845906
+    second: Cassidy_Loser_22
+  - first:
+      213: 7830625866937845935
+    second: Cassidy_Loser_23
+  - first:
+      213: -5905849847014979527
+    second: Cassidy_Loser_24
+  - first:
+      213: 7013877184403026837
+    second: Cassidy_Loser_25
+  - first:
+      213: -5514449525257667290
+    second: Cassidy_Loser_26
+  - first:
+      213: -908150848267298173
+    second: Cassidy_Loser_27
+  - first:
+      213: -981391063267186477
+    second: Cassidy_Loser_28
+  - first:
+      213: 210318565794101536
+    second: Cassidy_Loser_29
+  - first:
+      213: -2299010358572970506
+    second: Cassidy_Loser_30
+  - first:
+      213: 7309059071536314315
+    second: Cassidy_Loser_31
+  - first:
+      213: 8912769352282203971
+    second: Cassidy_Loser_32
+  - first:
+      213: 3619799887314655064
+    second: Cassidy_Loser_33
+  - first:
+      213: -1994262375641163603
+    second: Cassidy_Loser_34
+  - first:
+      213: 5128189601205202752
+    second: Cassidy_Loser_35
+  - first:
+      213: -5502987104657596230
+    second: Cassidy_Loser_36
+  - first:
+      213: 7502709790746672890
+    second: Cassidy_Loser_37
+  - first:
+      213: 3411194427133038181
+    second: Cassidy_Loser_38
+  - first:
+      213: 5918638758306900018
+    second: Cassidy_Loser_39
+  - first:
+      213: 7832435862738388431
+    second: Cassidy_Loser_40
+  - first:
+      213: 2741997739075235569
+    second: Cassidy_Loser_41
+  - first:
+      213: -7886729409454379001
+    second: Cassidy_Loser_42
+  - first:
+      213: 6831529396570173310
+    second: Cassidy_Loser_43
+  - first:
+      213: -6037527077379044578
+    second: Cassidy_Loser_44
+  - first:
+      213: 3961753702930414028
+    second: Cassidy_Loser_45
+  - first:
+      213: -7711214324546154950
+    second: Cassidy_Loser_46
+  - first:
+      213: 7976699397581980010
+    second: Cassidy_Loser_47
+  - first:
+      213: 3860764060086699789
+    second: Cassidy_Loser_48
+  - first:
+      213: -8275960377055652105
+    second: Cassidy_Loser_49
+  - first:
+      213: 6871022007280390200
+    second: Cassidy_Loser_50
+  - first:
+      213: 8965537051244191991
+    second: Cassidy_Loser_51
+  - first:
+      213: -6494253948703877087
+    second: Cassidy_Loser_52
+  - first:
+      213: 2936460273281921790
+    second: Cassidy_Loser_53
+  - first:
+      213: -4686825919802621228
+    second: Cassidy_Loser_54
+  - first:
+      213: -6255863491275262939
+    second: Cassidy_Loser_55
+  - first:
+      213: -8340425547177400853
+    second: Cassidy_Loser_56
+  - first:
+      213: -837121521577073840
+    second: Cassidy_Loser_57
+  - first:
+      213: -8598045206242454546
+    second: Cassidy_Loser_58
+  - first:
+      213: -8912438064217589836
+    second: Cassidy_Loser_59
+  - first:
+      213: -1341813362267085584
+    second: Cassidy_Loser_60
+  - first:
+      213: -6400866791950334339
+    second: Cassidy_Loser_61
+  - first:
+      213: -5368023743088094460
+    second: Cassidy_Loser_62
+  - first:
+      213: 6248212869149102924
+    second: Cassidy_Loser_63
+  - first:
+      213: 3939973207642137361
+    second: Cassidy_Loser_64
+  - first:
+      213: -821473390550329479
+    second: Cassidy_Loser_65
+  - first:
+      213: -5564072961922553621
+    second: Cassidy_Loser_66
+  - first:
+      213: -5345712933341213078
+    second: Cassidy_Loser_67
+  - first:
+      213: 5458668595453350963
+    second: Cassidy_Loser_68
+  - first:
+      213: 993395693633814325
+    second: Cassidy_Loser_69
+  - first:
+      213: -6555046255003389098
+    second: Cassidy_Loser_70
+  - first:
+      213: 3816067300914950552
+    second: Cassidy_Loser_71
+  - first:
+      213: 4243632688790234566
+    second: Cassidy_Loser_72
+  - first:
+      213: -5762923311301204275
+    second: Cassidy_Loser_73
+  - first:
+      213: -6967565231608364676
+    second: Cassidy_Loser_74
+  - first:
+      213: 317236616719592656
+    second: Cassidy_Loser_75
+  - first:
+      213: 2734706052104935229
+    second: Cassidy_Loser_76
+  - first:
+      213: -5680099357823418220
+    second: Cassidy_Loser_77
+  - first:
+      213: -953995569520503338
+    second: Cassidy_Loser_78
+  - first:
+      213: 7784227436252758693
+    second: Cassidy_Loser_79
+  - first:
+      213: -3189060043636914612
+    second: Cassidy_Loser_80
+  - first:
+      213: -1710361940073473375
+    second: Cassidy_Loser_81
+  - first:
+      213: -5815147045208332895
+    second: Cassidy_Loser_82
+  - first:
+      213: 7363418368603207618
+    second: Cassidy_Loser_83
+  - first:
+      213: -8562370870046794432
+    second: Cassidy_Loser_84
+  - first:
+      213: -928529136681046464
+    second: Cassidy_Loser_85
+  - first:
+      213: 5885124726879107501
+    second: Cassidy_Loser_86
+  - first:
+      213: -4060113152332118325
+    second: Cassidy_Loser_87
+  - first:
+      213: -7700860601119558006
+    second: Cassidy_Loser_88
+  - first:
+      213: 3453141586020361824
+    second: Cassidy_Loser_89
+  - first:
+      213: 2539397719304696160
+    second: Cassidy_Loser_90
+  - first:
+      213: 8968471049893386945
+    second: Cassidy_Loser_91
+  - first:
+      213: -503486495090892381
+    second: Cassidy_Loser_92
+  - first:
+      213: -5176505571086153363
+    second: Cassidy_Loser_93
+  - first:
+      213: -2187849093963725503
+    second: Cassidy_Loser_94
+  - first:
+      213: -2495504776604148208
+    second: Cassidy_Loser_95
+  - first:
+      213: 2661043378725403622
+    second: Cassidy_Loser_96
+  - first:
+      213: -8188089640085247327
+    second: Cassidy_Loser_97
+  - first:
+      213: -413057982671817571
+    second: Cassidy_Loser_98
+  - first:
+      213: 3489489635706316632
+    second: Cassidy_Loser_99
+  - first:
+      213: -6845680657667157381
+    second: Cassidy_Loser_100
+  - first:
+      213: 7173049078800424212
+    second: Cassidy_Loser_101
+  - first:
+      213: 3825665314531131235
+    second: Cassidy_Loser_102
+  - first:
+      213: -2519077024098752166
+    second: Cassidy_Loser_103
+  - first:
+      213: 1916013096995123886
+    second: Cassidy_Loser_104
+  - first:
+      213: 1939348535281445274
+    second: Cassidy_Loser_105
+  - first:
+      213: -7222628359936178551
+    second: Cassidy_Loser_106
+  - first:
+      213: 2530933078767810283
+    second: Cassidy_Loser_107
+  - first:
+      213: -2830802965789683585
+    second: Cassidy_Loser_108
+  - first:
+      213: -6992692619788855025
+    second: Cassidy_Loser_109
+  - first:
+      213: -3675869259640619907
+    second: Cassidy_Loser_110
+  - first:
+      213: 8946565876037783498
+    second: Cassidy_Loser_111
+  - first:
+      213: 2127400934117495931
+    second: Cassidy_Loser_112
+  - first:
+      213: -5730671661145570070
+    second: Cassidy_Loser_113
+  - first:
+      213: -1370669175592632339
+    second: Cassidy_Loser_114
+  - first:
+      213: -5025350723143711226
+    second: Cassidy_Loser_115
+  - first:
+      213: 7421099396190270547
+    second: Cassidy_Loser_116
+  - first:
+      213: -6231216514373388272
+    second: Cassidy_Loser_117
+  - first:
+      213: 1688556132627655676
+    second: Cassidy_Loser_118
+  - first:
+      213: 4616687111084296398
+    second: Cassidy_Loser_119
+  - first:
+      213: 7886749477093717504
+    second: Cassidy_Loser_120
+  - first:
+      213: 6313948212373582060
+    second: Cassidy_Loser_121
+  - first:
+      213: 126603638927049812
+    second: Cassidy_Loser_122
+  - first:
+      213: -2980678019362779770
+    second: Cassidy_Loser_123
+  - first:
+      213: 2532371478089539198
+    second: Cassidy_Loser_124
+  - first:
+      213: -716686086689103119
+    second: Cassidy_Loser_125
+  - first:
+      213: 1520769181464474896
+    second: Cassidy_Loser_126
+  - first:
+      213: -8997433256134233129
+    second: Cassidy_Loser_127
+  - first:
+      213: 8698409193533263337
+    second: Cassidy_Loser_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cassidy_Loser_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2554
+        width: 202
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b7d003c709373d0800000000000000
+      internalID: -3210063246328497332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2542
+        width: 178
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe5c4714870752c0800000000000000
+      internalID: -4443074243469746448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_2
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2522
+        width: 136
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006b1db5ab5e5d2b0800000000000000
+      internalID: -5560285576351861248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_3
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2510
+        width: 125
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59afa3f4efc8576b0800000000000000
+      internalID: -5299174362652673387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2500
+        width: 128
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fec68ae5b7adcd0800000000000000
+      internalID: -2532576193959628919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_5
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 2510
+        width: 145
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa51f1b3bddcedba0800000000000000
+      internalID: -6062181706920684113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2162
+        width: 136
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50bb1a3ed733ef80800000000000000
+      internalID: -8078551878975377315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_7
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2182
+        width: 140
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a601a176aac1860800000000000000
+      internalID: 7502058439088040457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_8
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 2197
+        width: 144
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9130308004541baa0800000000000000
+      internalID: -6147055875069377767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_9
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2193
+        width: 154
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b735e50d2297a0170800000000000000
+      internalID: 8145456066484654971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_10
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2185
+        width: 161
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125bfd72182ad6dd0800000000000000
+      internalID: -2491156343262563039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_11
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 2176
+        width: 164
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b771700a9126276b0800000000000000
+      internalID: -5300065949263128709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1809
+        width: 167
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33f53343856af9d0800000000000000
+      internalID: -2739765808858795206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1812
+        width: 161
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da9f3a46c2ddad0800000000000000
+      internalID: -2675933792828805743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_14
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1829
+        width: 130
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3214476d35313f7a0800000000000000
+      internalID: -6344706199233740509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_15
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1839
+        width: 152
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86161799d3068ae10800000000000000
+      internalID: 2209121434908844392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_16
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1837
+        width: 368
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8aa2124e1fe6d40800000000000000
+      internalID: 5579662950469904560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_18
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 1837
+        width: 368
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46100f892af0cc470800000000000000
+      internalID: 8416118994673598820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1459
+        width: 368
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5933f8a532c465160800000000000000
+      internalID: 7013877184403026837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_27
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1456
+        width: 368
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ade867d999563f0800000000000000
+      internalID: -908150848267298173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_30
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1462
+        width: 368
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd805272464810e0800000000000000
+      internalID: -2299010358572970506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_33
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1468
+        width: 368
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8579369a1dc1c3230800000000000000
+      internalID: 3619799887314655064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_35
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1462
+        width: 368
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f20b0a54dfa2740800000000000000
+      internalID: 5128189601205202752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_36
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1465
+        width: 368
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab02457626671a3b0800000000000000
+      internalID: -5502987104657596230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1102
+        width: 368
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2f30e7f0760c820800000000000000
+      internalID: 2936460273281921790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_55
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1108
+        width: 368
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f337bc45be29a0800000000000000
+      internalID: -6255863491275262939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_58
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1101
+        width: 368
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee31b27707b9da880800000000000000
+      internalID: -8598045206242454546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_60
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1094
+        width: 368
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4a2333bdbe06de0800000000000000
+      internalID: -1341813362267085584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_63
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1099
+        width: 368
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4318a2008c16b650800000000000000
+      internalID: 6248212869149102924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_66
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1107
+        width: 368
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be82040fe1178c2b0800000000000000
+      internalID: -5564072961922553621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 744
+        width: 368
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c73e214efd103660800000000000000
+      internalID: 7363418368603207618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_84
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 742
+        width: 368
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d55bf1f095c2980800000000000000
+      internalID: -8562370870046794432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_85
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 740
+        width: 368
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea6847ba33d13f0800000000000000
+      internalID: -928529136681046464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_87
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 741
+        width: 368
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc64a5f699497a7c0800000000000000
+      internalID: -4060113152332118325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_90
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 734
+        width: 368
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061f79a75c0cd3320800000000000000
+      internalID: 2539397719304696160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_92
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 726
+        width: 368
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1a6e643b14309f0800000000000000
+      internalID: -503486495090892381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 368
+        width: 368
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7458ecc0eb068d10800000000000000
+      internalID: 2127400934117495931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_115
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 376
+        width: 368
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606444b842e524ab0800000000000000
+      internalID: -5025350723143711226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_117
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 377
+        width: 368
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018f93638954689a0800000000000000
+      internalID: -6231216514373388272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cassidy_Loser_119
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 377
+        width: 368
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8cd4f9774c11040800000000000000
+      internalID: 4616687111084296398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6d3455cb2996eca4e92c216f38288406
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cassidy_Loser_0: -3210063246328497332
+      Cassidy_Loser_1: -4443074243469746448
+      Cassidy_Loser_10: -2491156343262563039
+      Cassidy_Loser_11: -5300065949263128709
+      Cassidy_Loser_112: 2127400934117495931
+      Cassidy_Loser_115: -5025350723143711226
+      Cassidy_Loser_117: -6231216514373388272
+      Cassidy_Loser_119: 4616687111084296398
+      Cassidy_Loser_12: -2739765808858795206
+      Cassidy_Loser_13: -2675933792828805743
+      Cassidy_Loser_14: -6344706199233740509
+      Cassidy_Loser_15: 2209121434908844392
+      Cassidy_Loser_16: 5579662950469904560
+      Cassidy_Loser_18: 8416118994673598820
+      Cassidy_Loser_2: -5560285576351861248
+      Cassidy_Loser_25: 7013877184403026837
+      Cassidy_Loser_27: -908150848267298173
+      Cassidy_Loser_3: -5299174362652673387
+      Cassidy_Loser_30: -2299010358572970506
+      Cassidy_Loser_33: 3619799887314655064
+      Cassidy_Loser_35: 5128189601205202752
+      Cassidy_Loser_36: -5502987104657596230
+      Cassidy_Loser_4: -2532576193959628919
+      Cassidy_Loser_5: -6062181706920684113
+      Cassidy_Loser_53: 2936460273281921790
+      Cassidy_Loser_55: -6255863491275262939
+      Cassidy_Loser_58: -8598045206242454546
+      Cassidy_Loser_6: -8078551878975377315
+      Cassidy_Loser_60: -1341813362267085584
+      Cassidy_Loser_63: 6248212869149102924
+      Cassidy_Loser_66: -5564072961922553621
+      Cassidy_Loser_7: 7502058439088040457
+      Cassidy_Loser_8: -6147055875069377767
+      Cassidy_Loser_83: 7363418368603207618
+      Cassidy_Loser_84: -8562370870046794432
+      Cassidy_Loser_85: -928529136681046464
+      Cassidy_Loser_87: -4060113152332118325
+      Cassidy_Loser_9: 8145456066484654971
+      Cassidy_Loser_90: 2539397719304696160
+      Cassidy_Loser_92: -503486495090892381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

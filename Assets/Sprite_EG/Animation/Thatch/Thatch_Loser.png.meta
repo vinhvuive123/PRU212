@@ -1,0 +1,1351 @@
+fileFormatVersion: 2
+guid: f37022bdfdfb0b14b830ffb598f7f684
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7407928972943761585
+    second: Thatch_Loser_0
+  - first:
+      213: -4702861312489721727
+    second: Thatch_Loser_1
+  - first:
+      213: 7690262245508315706
+    second: Thatch_Loser_2
+  - first:
+      213: 5325139465943523490
+    second: Thatch_Loser_3
+  - first:
+      213: 3861579739724742261
+    second: Thatch_Loser_4
+  - first:
+      213: 6864844392360135019
+    second: Thatch_Loser_5
+  - first:
+      213: 8826217407436034637
+    second: Thatch_Loser_6
+  - first:
+      213: 9018951744577511174
+    second: Thatch_Loser_7
+  - first:
+      213: 4449032015533264762
+    second: Thatch_Loser_8
+  - first:
+      213: -4714355626399105877
+    second: Thatch_Loser_9
+  - first:
+      213: 5111191018634837320
+    second: Thatch_Loser_10
+  - first:
+      213: -6195248646559841314
+    second: Thatch_Loser_11
+  - first:
+      213: 6327220484312599317
+    second: Thatch_Loser_12
+  - first:
+      213: 7394598743830976705
+    second: Thatch_Loser_13
+  - first:
+      213: 3036390716717944370
+    second: Thatch_Loser_14
+  - first:
+      213: -6332615929735722847
+    second: Thatch_Loser_15
+  - first:
+      213: 6551336308476024601
+    second: Thatch_Loser_16
+  - first:
+      213: 1049999289405507925
+    second: Thatch_Loser_17
+  - first:
+      213: -8802288582450014573
+    second: Thatch_Loser_18
+  - first:
+      213: -7234712412196368401
+    second: Thatch_Loser_19
+  - first:
+      213: 6691553737799200316
+    second: Thatch_Loser_20
+  - first:
+      213: 3629176131383400449
+    second: Thatch_Loser_21
+  - first:
+      213: 8333072545347193212
+    second: Thatch_Loser_22
+  - first:
+      213: 8621853430047859219
+    second: Thatch_Loser_23
+  - first:
+      213: 6422180506550935264
+    second: Thatch_Loser_24
+  - first:
+      213: 716677435799249178
+    second: Thatch_Loser_25
+  - first:
+      213: 2086191668646468521
+    second: Thatch_Loser_26
+  - first:
+      213: 4672571745133697825
+    second: Thatch_Loser_27
+  - first:
+      213: 5158402510694386505
+    second: Thatch_Loser_28
+  - first:
+      213: 7623919879770454033
+    second: Thatch_Loser_29
+  - first:
+      213: 1945682953033416962
+    second: Thatch_Loser_30
+  - first:
+      213: -3500110745247969839
+    second: Thatch_Loser_31
+  - first:
+      213: -7367217574540011411
+    second: Thatch_Loser_32
+  - first:
+      213: -6311863624901817843
+    second: Thatch_Loser_33
+  - first:
+      213: 8779497563365000656
+    second: Thatch_Loser_34
+  - first:
+      213: 8864520271364098255
+    second: Thatch_Loser_35
+  - first:
+      213: -2431420347660048665
+    second: Thatch_Loser_36
+  - first:
+      213: -96677204000852872
+    second: Thatch_Loser_37
+  - first:
+      213: -8625976060807737585
+    second: Thatch_Loser_38
+  - first:
+      213: 2820280383641963373
+    second: Thatch_Loser_39
+  - first:
+      213: 6908056519464634270
+    second: Thatch_Loser_40
+  - first:
+      213: -4115480175407664104
+    second: Thatch_Loser_41
+  - first:
+      213: -7684429383512634895
+    second: Thatch_Loser_42
+  - first:
+      213: -7024332661074456494
+    second: Thatch_Loser_43
+  - first:
+      213: 4238460846618392432
+    second: Thatch_Loser_44
+  - first:
+      213: -4993923682511153049
+    second: Thatch_Loser_45
+  - first:
+      213: 3815662183733780769
+    second: Thatch_Loser_46
+  - first:
+      213: 5312127696418501334
+    second: Thatch_Loser_47
+  - first:
+      213: -7769901178233009016
+    second: Thatch_Loser_48
+  - first:
+      213: 7890726505337182601
+    second: Thatch_Loser_49
+  - first:
+      213: -8690470580713966324
+    second: Thatch_Loser_50
+  - first:
+      213: 1515746381315084718
+    second: Thatch_Loser_51
+  - first:
+      213: -7049969398779249682
+    second: Thatch_Loser_52
+  - first:
+      213: -581913264199406830
+    second: Thatch_Loser_53
+  - first:
+      213: 1536728017536950949
+    second: Thatch_Loser_54
+  - first:
+      213: 4910782648224559417
+    second: Thatch_Loser_55
+  - first:
+      213: -1813370150381837626
+    second: Thatch_Loser_56
+  - first:
+      213: -2848345799595995280
+    second: Thatch_Loser_57
+  - first:
+      213: -8522361600378584101
+    second: Thatch_Loser_58
+  - first:
+      213: -3313631536250614464
+    second: Thatch_Loser_59
+  - first:
+      213: -7316043914230972233
+    second: Thatch_Loser_60
+  - first:
+      213: 8788546859707088721
+    second: Thatch_Loser_61
+  - first:
+      213: 4572027137536623548
+    second: Thatch_Loser_62
+  - first:
+      213: -316267091295936700
+    second: Thatch_Loser_63
+  - first:
+      213: 1066934563778765262
+    second: Thatch_Loser_64
+  - first:
+      213: 7841897267157891296
+    second: Thatch_Loser_65
+  - first:
+      213: 1489143374047144283
+    second: Thatch_Loser_66
+  - first:
+      213: -1468932449770056435
+    second: Thatch_Loser_67
+  - first:
+      213: -7568555259862488275
+    second: Thatch_Loser_68
+  - first:
+      213: 8452031398072097433
+    second: Thatch_Loser_69
+  - first:
+      213: -7699051060817317246
+    second: Thatch_Loser_70
+  - first:
+      213: -8771134427006388647
+    second: Thatch_Loser_71
+  - first:
+      213: -8395869778010968509
+    second: Thatch_Loser_72
+  - first:
+      213: -5258729205914858914
+    second: Thatch_Loser_73
+  - first:
+      213: -1977620183826779069
+    second: Thatch_Loser_74
+  - first:
+      213: -3383824144166340770
+    second: Thatch_Loser_75
+  - first:
+      213: 3168054710339668384
+    second: Thatch_Loser_76
+  - first:
+      213: -4465868973767214051
+    second: Thatch_Loser_77
+  - first:
+      213: -5701942003784857733
+    second: Thatch_Loser_78
+  - first:
+      213: -2159256084814236846
+    second: Thatch_Loser_79
+  - first:
+      213: -782927369453602145
+    second: Thatch_Loser_80
+  - first:
+      213: -8586478949054053588
+    second: Thatch_Loser_81
+  - first:
+      213: 4062278462625453161
+    second: Thatch_Loser_82
+  - first:
+      213: -1677218698913924690
+    second: Thatch_Loser_83
+  - first:
+      213: -5896800325227356584
+    second: Thatch_Loser_84
+  - first:
+      213: -2425288021081614001
+    second: Thatch_Loser_85
+  - first:
+      213: 97695047050546322
+    second: Thatch_Loser_86
+  - first:
+      213: 5969313104041927653
+    second: Thatch_Loser_87
+  - first:
+      213: 2075188291792009916
+    second: Thatch_Loser_88
+  - first:
+      213: 7875955435773945635
+    second: Thatch_Loser_89
+  - first:
+      213: -5223965633969025319
+    second: Thatch_Loser_90
+  - first:
+      213: 6865711074797379439
+    second: Thatch_Loser_91
+  - first:
+      213: 9012362321032001882
+    second: Thatch_Loser_92
+  - first:
+      213: -2651557432989568418
+    second: Thatch_Loser_93
+  - first:
+      213: 3207104527614995515
+    second: Thatch_Loser_94
+  - first:
+      213: -5297555141827321603
+    second: Thatch_Loser_95
+  - first:
+      213: 5116865746652866532
+    second: Thatch_Loser_96
+  - first:
+      213: 3763565478034765605
+    second: Thatch_Loser_97
+  - first:
+      213: -1367514484896362270
+    second: Thatch_Loser_98
+  - first:
+      213: 6709051703056093950
+    second: Thatch_Loser_99
+  - first:
+      213: 2669660551263265035
+    second: Thatch_Loser_100
+  - first:
+      213: -137579348877581610
+    second: Thatch_Loser_101
+  - first:
+      213: -2918060779438398378
+    second: Thatch_Loser_102
+  - first:
+      213: -3319486407742100454
+    second: Thatch_Loser_103
+  - first:
+      213: -181785421782877933
+    second: Thatch_Loser_104
+  - first:
+      213: 4561864848194205238
+    second: Thatch_Loser_105
+  - first:
+      213: -4057141017783233568
+    second: Thatch_Loser_106
+  - first:
+      213: 7545747053120703845
+    second: Thatch_Loser_107
+  - first:
+      213: -990967112608949271
+    second: Thatch_Loser_108
+  - first:
+      213: -7342099717311638558
+    second: Thatch_Loser_109
+  - first:
+      213: -1395920265283084785
+    second: Thatch_Loser_110
+  - first:
+      213: 9205443071092737692
+    second: Thatch_Loser_111
+  - first:
+      213: 3898199594663612990
+    second: Thatch_Loser_112
+  - first:
+      213: -4423949929236807171
+    second: Thatch_Loser_113
+  - first:
+      213: -2679360609379937307
+    second: Thatch_Loser_114
+  - first:
+      213: 2872114246617138554
+    second: Thatch_Loser_115
+  - first:
+      213: 1366615055179168551
+    second: Thatch_Loser_116
+  - first:
+      213: 7056530227533823130
+    second: Thatch_Loser_117
+  - first:
+      213: 3894188039778150951
+    second: Thatch_Loser_118
+  - first:
+      213: -1461801853828148752
+    second: Thatch_Loser_119
+  - first:
+      213: 7932639402880843631
+    second: Thatch_Loser_120
+  - first:
+      213: 3565582590288911613
+    second: Thatch_Loser_121
+  - first:
+      213: 6823664833878015774
+    second: Thatch_Loser_122
+  - first:
+      213: -3766192242061442874
+    second: Thatch_Loser_123
+  - first:
+      213: 6773121827280953630
+    second: Thatch_Loser_124
+  - first:
+      213: -2115594425907324756
+    second: Thatch_Loser_125
+  - first:
+      213: 1477736139126020461
+    second: Thatch_Loser_126
+  - first:
+      213: 2216053814544454428
+    second: Thatch_Loser_127
+  - first:
+      213: 1448016743908196595
+    second: Thatch_Loser_128
+  - first:
+      213: -5267071319934508188
+    second: Thatch_Loser_129
+  - first:
+      213: 5494894329335685662
+    second: Thatch_Loser_130
+  - first:
+      213: -979004712161324088
+    second: Thatch_Loser_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thatch_Loser_0
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3480
+        width: 202
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fdc5619dfb13990800000000000000
+      internalID: -7407928972943761585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_1
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 3452
+        width: 181
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1807f199d841cbeb0800000000000000
+      internalID: -4702861312489721727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_2
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3429
+        width: 126
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afe1d74cc49ba60800000000000000
+      internalID: 7690262245508315706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_3
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 3428
+        width: 126
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a02af66122b6e940800000000000000
+      internalID: 5325139465943523490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_4
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3431
+        width: 133
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e73225056179530800000000000000
+      internalID: 3861579739724742261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_5
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 3437
+        width: 153
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6945f47a93d44f50800000000000000
+      internalID: 6864844392360135019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2970
+        width: 145
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42189008f50d7a70800000000000000
+      internalID: 8826217407436034637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_7
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2996
+        width: 149
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f9ee5c3d0c92d70800000000000000
+      internalID: 9018951744577511174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_8
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3008
+        width: 147
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f4330db032ebd30800000000000000
+      internalID: 4449032015533264762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_9
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 3000
+        width: 157
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacfd97198e339eb0800000000000000
+      internalID: -4714355626399105877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_10
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 2991
+        width: 164
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d75e4b6299ee640800000000000000
+      internalID: 5111191018634837320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_11
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 2986
+        width: 167
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c4960e2e060aa0800000000000000
+      internalID: -6195248646559841314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2504
+        width: 170
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0707e18dcec750800000000000000
+      internalID: 6327220484312599317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_13
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2507
+        width: 164
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c858961164ee9660800000000000000
+      internalID: 7394598743830976705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_14
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2503
+        width: 135
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e4445f44d632a20800000000000000
+      internalID: 3036390716717944370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_15
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 2509
+        width: 144
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a84f111d570e18a0800000000000000
+      internalID: -6332615929735722847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_16
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 2510
+        width: 368
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91715de79a50bea50800000000000000
+      internalID: 6551336308476024601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_19
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 2510
+        width: 368
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef0dea6463299b90800000000000000
+      internalID: -7234712412196368401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 2027
+        width: 368
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5d0ff444a3fc10800000000000000
+      internalID: 2086191668646468521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_29
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2021
+        width: 368
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b1c5ccba9dc960800000000000000
+      internalID: 7623919879770454033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_32
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2024
+        width: 368
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68178e26a262c990800000000000000
+      internalID: -7367217574540011411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_34
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 2023
+        width: 368
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d547c2a48a07d970800000000000000
+      internalID: 8779497563365000656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_35
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 2021
+        width: 368
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc808e6783a150b70800000000000000
+      internalID: 8864520271364098255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_36
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 2023
+        width: 368
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6e016731cd14ed0800000000000000
+      internalID: -2431420347660048665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1543
+        width: 368
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b394dcca962440800000000000000
+      internalID: 4910782648224559417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_57
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1547
+        width: 368
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fca912694a878d0800000000000000
+      internalID: -2848345799595995280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_60
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1547
+        width: 368
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0ca1372d0387a90800000000000000
+      internalID: -7316043914230972233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_63
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1540
+        width: 368
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd82191c46c9bf0800000000000000
+      internalID: -316267091295936700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_66
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1547
+        width: 368
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59e4b542008aa410800000000000000
+      internalID: 1489143374047144283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_69
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1545
+        width: 368
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a198896c5ab4570800000000000000
+      internalID: 8452031398072097433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_86
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1065
+        width: 368
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c43cfa0251b5100800000000000000
+      internalID: 97695047050546322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_87
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1064
+        width: 368
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3e08f24a247d250800000000000000
+      internalID: 5969313104041927653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_88
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1064
+        width: 368
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaff4ea1cc8ccc10800000000000000
+      internalID: 2075188291792009916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_90
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1064
+        width: 368
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8d640feeb087b0800000000000000
+      internalID: -5223965633969025319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_92
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 1064
+        width: 368
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a593a3c08c7521d70800000000000000
+      internalID: 9012362321032001882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_95
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1059
+        width: 368
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0a6598aad4b76b0800000000000000
+      internalID: -5297555141827321603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_116
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 579
+        width: 368
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bb7ace62137f210800000000000000
+      internalID: 1366615055179168551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_119
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 579
+        width: 368
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d09a75f2a6bbe0800000000000000
+      internalID: -1461801853828148752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_121
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 582
+        width: 368
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcdc7f797e7b7130800000000000000
+      internalID: 3565582590288911613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thatch_Loser_122
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 582
+        width: 368
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fbf99530782be50800000000000000
+      internalID: 6823664833878015774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb0268006e1adc940b284ee04e356fd7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Thatch_Loser_56: 2007834022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

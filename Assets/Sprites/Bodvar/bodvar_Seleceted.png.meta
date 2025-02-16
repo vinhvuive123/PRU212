@@ -1,0 +1,1414 @@
+fileFormatVersion: 2
+guid: 4cff81b3ffec57c41a317a3e42a3fb48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6485148291965563459
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_0"
+  - first:
+      213: -6250452961681967754
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_1"
+  - first:
+      213: 5602452590373452439
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_2"
+  - first:
+      213: 5996368174226152657
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_3"
+  - first:
+      213: -1964742105163716663
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_4"
+  - first:
+      213: 6279193085958842411
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_5"
+  - first:
+      213: 7970353779818563812
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_6"
+  - first:
+      213: 6024088226386729849
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_7"
+  - first:
+      213: 4608446051472193608
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_8"
+  - first:
+      213: -4307417813864083180
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_9"
+  - first:
+      213: -686297919172762328
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_10"
+  - first:
+      213: 1954809153181491416
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_11"
+  - first:
+      213: -8081267051000453887
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_12"
+  - first:
+      213: -3572593751125236692
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_13"
+  - first:
+      213: 8910585610811080370
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_14"
+  - first:
+      213: -2621563760707004032
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_15"
+  - first:
+      213: -3236142522292113055
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_16"
+  - first:
+      213: 8332694938238801954
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_17"
+  - first:
+      213: -2787122286730588871
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_18"
+  - first:
+      213: -4341969978372476888
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_19"
+  - first:
+      213: -807113421142566398
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_20"
+  - first:
+      213: 4275844752294914976
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_21"
+  - first:
+      213: -6032017427530753759
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_22"
+  - first:
+      213: -6751186346936787463
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_23"
+  - first:
+      213: 2445406967001775348
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_24"
+  - first:
+      213: -1444587573754104889
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_25"
+  - first:
+      213: 853279990122219415
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_26"
+  - first:
+      213: -775502029055305944
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_27"
+  - first:
+      213: 5308650175495512455
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_28"
+  - first:
+      213: 4251196942565071062
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_29"
+  - first:
+      213: 2095137089359014691
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_30"
+  - first:
+      213: 6846887356220849337
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_31"
+  - first:
+      213: 4676357019355062345
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_32"
+  - first:
+      213: -2612996307329512231
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_33"
+  - first:
+      213: 5184610230842586305
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_34"
+  - first:
+      213: -6716612299850754361
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_35"
+  - first:
+      213: 5086731781220067404
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_36"
+  - first:
+      213: -2276341059778928588
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_37"
+  - first:
+      213: -1555331193697767035
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_38"
+  - first:
+      213: 8881419114784423152
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_39"
+  - first:
+      213: -1773334702753487576
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_40"
+  - first:
+      213: 161029343230093172
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_41"
+  - first:
+      213: 6312625867304858529
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_42"
+  - first:
+      213: 5619095942182064997
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_43"
+  - first:
+      213: -1275795719518438448
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_44"
+  - first:
+      213: -6509773183444877256
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_45"
+  - first:
+      213: 8662348242899681227
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_46"
+  - first:
+      213: 2573594644000878972
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_47"
+  - first:
+      213: 1194082800321625562
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_48"
+  - first:
+      213: 7925269216175198400
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_49"
+  - first:
+      213: 5095018183465061848
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_50"
+  - first:
+      213: 4346375836505069793
+    second: "D\u1EF1 \xE1n m\u1EDBi (2)_51"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bodvar_Seleceted_0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2674
+        width: 214
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2322b1c5d91f97d41a89e9fde5b69ac9
+      internalID: -1623646244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2674
+        width: 213
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a097201286dda9141a11f15c1becbf6a
+      internalID: -1763413162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_2
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2674
+        width: 268
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec9b30defb45c479d30677814aa6ba
+      internalID: -989577236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2674
+        width: 314
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884733ae97ad35a419eeec883f344ada
+      internalID: -129090513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_4
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2674
+        width: 316
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebdb1fda638fb547a1fcb89c4daa21a
+      internalID: 1158506174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_5
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 2674
+        width: 310
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9f858330f64e443b1cb779a6704a2e
+      internalID: 688102068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_6
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 2674
+        width: 309
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984e3e371dbda4a4991761cd003253fd
+      internalID: 1904538345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_7
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2674
+        width: 311
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb27d2e9b3f054d92b3c2589e6a86c
+      internalID: 1426124652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2198
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74883b57fa11b54f892d1ef1eeae007
+      internalID: 910421146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2198
+        width: 303
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329fbd092e0c0da42a9ebce7aab28b6c
+      internalID: -1643833011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2198
+        width: 190
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f190f89258fc478bab79447d45618
+      internalID: -662216388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_11
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2198
+        width: 190
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ae70bce8602044ba6232d78213ca93
+      internalID: -683651044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_12
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2198
+        width: 192
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261b24cbb9fad845a3638a2e2b82307
+      internalID: 1843192293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_13
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 2198
+        width: 190
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0297e3f25663f478aed3531667b446
+      internalID: -1226974889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_14
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 2198
+        width: 192
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc94b674fb401854f8bc01e6be31ff3e
+      internalID: -1833631754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_15
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2198
+        width: 192
+        height: 344
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd03c23bad8d244cb8a0b73ffbf111b
+      internalID: 1316895780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1846
+        width: 192
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d77fa8d0fa6d040929eb7bff9ff357
+      internalID: 1124284651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1846
+        width: 245
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce298e00daac554685ce2805d4a9acb
+      internalID: 1351976644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_18
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1846
+        width: 244
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38940c33b52c5241b64c4776e720cc9
+      internalID: 363798982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_19
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1848
+        width: 247
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf930781f7265d4db92468df6f720b0
+      internalID: 1638347299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_20
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1848
+        width: 248
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affda417b11a2c548b7cb56a89c79805
+      internalID: -2109892911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_21
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1848
+        width: 253
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4142714883e67449e9af22de54d16e
+      internalID: -115089427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_22
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1848
+        width: 254
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dedb04b94af2e44e8bc8b7e351b06c8
+      internalID: -985228297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_23
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1848
+        width: 253
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b682cf3fd4b71474ab58744b8658bcb2
+      internalID: -1603209240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_24
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1608
+        width: 261
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af584a5f6550d548b59b9c7fc901d83
+      internalID: -648981016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1608
+        width: 261
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10d8fd18f071d3439229e5222ef0973
+      internalID: 250055391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_26
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1608
+        width: 266
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2a32dea3b7d242862ca45369d3424
+      internalID: -652821969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_27
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1608
+        width: 266
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc45e8605c47c941ab36162373336d0
+      internalID: 242430624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_28
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1608
+        width: 267
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d256467dc20e741bfd6c035b5a16ce
+      internalID: 149013778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_29
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1608
+        width: 273
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab429fb54b62a842a18ff7e42dad384
+      internalID: -235161884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_30
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1608
+        width: 273
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358820279c772c140a898a8bea9fc1e8
+      internalID: 1432735904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_31
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 1608
+        width: 263
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2af1c0f4a7d4c41905f83d42dac463
+      internalID: -1416187400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1261
+        width: 265
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a88c5a62c30847af1dd14b8c6897e
+      internalID: 1169171851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_33
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1261
+        width: 299
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726b2fcfe01efff46a453674425526f5
+      internalID: 890886223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_34
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1261
+        width: 299
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c9b901deb0144b8a3698021b8e9d0
+      internalID: 1281945858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_35
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1259
+        width: 269
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a5d5f02fdc42e4bb3ac0262e9cdb0c
+      internalID: -81734148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_36
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1259
+        width: 269
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0895688e4892f4aadfe81ab1c93648
+      internalID: -1999528677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_37
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1259
+        width: 268
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25df9d57d5c6e454190b6df3d5a0a32b
+      internalID: -2120897009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_38
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1259
+        width: 270
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece4d1651d6df1d4eb764cafeeabc6a8
+      internalID: -1994605585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_39
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1259
+        width: 271
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63403793e6967e340915669b7e5f7ce1
+      internalID: -346029849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 905
+        width: 269
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2118a7c658128f349b5e8726a9345ad9
+      internalID: -86040248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_41
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 905
+        width: 269
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baa41dcd90afbb4ea0967d42d889bd3
+      internalID: -617166172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_42
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 905
+        width: 270
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4e94cee4ba474882343fdc172e38b
+      internalID: -1668277286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_43
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 905
+        width: 269
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706052db63c1f294d878ba0213961990
+      internalID: -2050329851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_44
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 905
+        width: 268
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cfa70ffe6504a49807a0a90b04fefc
+      internalID: -861668310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_45
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 905
+        width: 268
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1700035427af0604aab582533e405dc2
+      internalID: -1783624842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_46
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 905
+        width: 268
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d7e4ea9d029d489c1cf7ddcddf30b
+      internalID: -1867573318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_47
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 905
+        width: 270
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c17727ba8a9e64795baed54e72bb7e
+      internalID: 1558465307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 553
+        width: 268
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d3373a286358e46ac58f5a82cde20d
+      internalID: 1581691937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_49
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 553
+        width: 267
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ba9a4f1ede544c854662297a4c4a3
+      internalID: 82525112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_50
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 553
+        width: 265
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f69afa38cdbb746bfbeab98903d3a3
+      internalID: -47074184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodvar_Seleceted_51
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 553
+        width: 266
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1f0dff8f873284d9c3bd0f500249ff
+      internalID: 2096112327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 168637972bbdb124d825b7697ada2b03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bodvar_Seleceted_0: -1623646244
+      bodvar_Seleceted_1: -1763413162
+      bodvar_Seleceted_10: -662216388
+      bodvar_Seleceted_11: -683651044
+      bodvar_Seleceted_12: 1843192293
+      bodvar_Seleceted_13: -1226974889
+      bodvar_Seleceted_14: -1833631754
+      bodvar_Seleceted_15: 1316895780
+      bodvar_Seleceted_16: 1124284651
+      bodvar_Seleceted_17: 1351976644
+      bodvar_Seleceted_18: 363798982
+      bodvar_Seleceted_19: 1638347299
+      bodvar_Seleceted_2: -989577236
+      bodvar_Seleceted_20: -2109892911
+      bodvar_Seleceted_21: -115089427
+      bodvar_Seleceted_22: -985228297
+      bodvar_Seleceted_23: -1603209240
+      bodvar_Seleceted_24: -648981016
+      bodvar_Seleceted_25: 250055391
+      bodvar_Seleceted_26: -652821969
+      bodvar_Seleceted_27: 242430624
+      bodvar_Seleceted_28: 149013778
+      bodvar_Seleceted_29: -235161884
+      bodvar_Seleceted_3: -129090513
+      bodvar_Seleceted_30: 1432735904
+      bodvar_Seleceted_31: -1416187400
+      bodvar_Seleceted_32: 1169171851
+      bodvar_Seleceted_33: 890886223
+      bodvar_Seleceted_34: 1281945858
+      bodvar_Seleceted_35: -81734148
+      bodvar_Seleceted_36: -1999528677
+      bodvar_Seleceted_37: -2120897009
+      bodvar_Seleceted_38: -1994605585
+      bodvar_Seleceted_39: -346029849
+      bodvar_Seleceted_4: 1158506174
+      bodvar_Seleceted_40: -86040248
+      bodvar_Seleceted_41: -617166172
+      bodvar_Seleceted_42: -1668277286
+      bodvar_Seleceted_43: -2050329851
+      bodvar_Seleceted_44: -861668310
+      bodvar_Seleceted_45: -1783624842
+      bodvar_Seleceted_46: -1867573318
+      bodvar_Seleceted_47: 1558465307
+      bodvar_Seleceted_48: 1581691937
+      bodvar_Seleceted_49: 82525112
+      bodvar_Seleceted_5: 688102068
+      bodvar_Seleceted_50: -47074184
+      bodvar_Seleceted_51: 2096112327
+      bodvar_Seleceted_6: 1904538345
+      bodvar_Seleceted_7: 1426124652
+      bodvar_Seleceted_8: 910421146
+      bodvar_Seleceted_9: -1643833011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

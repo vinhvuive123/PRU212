@@ -1,0 +1,1514 @@
+fileFormatVersion: 2
+guid: eccc55c27e95ef8449f0d8dec1ace3e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5226780865140245583
+    second: Bodvar_Winer_0
+  - first:
+      213: 2021905181713193622
+    second: Bodvar_Winer_1
+  - first:
+      213: -1301788780477886777
+    second: Bodvar_Winer_2
+  - first:
+      213: 2838180953557034815
+    second: Bodvar_Winer_3
+  - first:
+      213: -5595797187445541053
+    second: Bodvar_Winer_4
+  - first:
+      213: 3429599924916032127
+    second: Bodvar_Winer_5
+  - first:
+      213: -2539678794507257535
+    second: Bodvar_Winer_6
+  - first:
+      213: 8878169399462501227
+    second: Bodvar_Winer_7
+  - first:
+      213: -5375035709329957549
+    second: Bodvar_Winer_8
+  - first:
+      213: 1535427818414038387
+    second: Bodvar_Winer_9
+  - first:
+      213: 1925214649996494211
+    second: Bodvar_Winer_10
+  - first:
+      213: -3938831356288525040
+    second: Bodvar_Winer_11
+  - first:
+      213: 62330244555347764
+    second: Bodvar_Winer_12
+  - first:
+      213: 4008493568875657567
+    second: Bodvar_Winer_13
+  - first:
+      213: 571161591362456309
+    second: Bodvar_Winer_14
+  - first:
+      213: 3585669547353768740
+    second: Bodvar_Winer_15
+  - first:
+      213: -7353466487680513434
+    second: Bodvar_Winer_16
+  - first:
+      213: 4409237286691111517
+    second: Bodvar_Winer_17
+  - first:
+      213: -6434872055744739139
+    second: Bodvar_Winer_18
+  - first:
+      213: -334489607408339128
+    second: Bodvar_Winer_19
+  - first:
+      213: -7592115474438255072
+    second: Bodvar_Winer_20
+  - first:
+      213: -6014438349391350236
+    second: Bodvar_Winer_21
+  - first:
+      213: -3106732830983994120
+    second: Bodvar_Winer_22
+  - first:
+      213: 5840422117531610067
+    second: Bodvar_Winer_23
+  - first:
+      213: -2219858188561948433
+    second: Bodvar_Winer_24
+  - first:
+      213: 8207320560267912621
+    second: Bodvar_Winer_25
+  - first:
+      213: -5573364254284209375
+    second: Bodvar_Winer_26
+  - first:
+      213: 3694162660028270992
+    second: Bodvar_Winer_27
+  - first:
+      213: -8791502177266763907
+    second: Bodvar_Winer_28
+  - first:
+      213: -4780999616463077382
+    second: Bodvar_Winer_29
+  - first:
+      213: -6591675437102957090
+    second: Bodvar_Winer_30
+  - first:
+      213: -8470439390761908489
+    second: Bodvar_Winer_31
+  - first:
+      213: 6369731377357699245
+    second: Bodvar_Winer_32
+  - first:
+      213: 8899952813026439153
+    second: Bodvar_Winer_33
+  - first:
+      213: 6643899922149176746
+    second: Bodvar_Winer_34
+  - first:
+      213: -4209356548095200118
+    second: Bodvar_Winer_35
+  - first:
+      213: 6954122001649806298
+    second: Bodvar_Winer_36
+  - first:
+      213: -459487783313346258
+    second: Bodvar_Winer_37
+  - first:
+      213: -8574673852388142571
+    second: Bodvar_Winer_38
+  - first:
+      213: -4753528100781924166
+    second: Bodvar_Winer_39
+  - first:
+      213: 4751280866064704897
+    second: Bodvar_Winer_40
+  - first:
+      213: -3857882803678310788
+    second: Bodvar_Winer_41
+  - first:
+      213: -7355810355422081916
+    second: Bodvar_Winer_42
+  - first:
+      213: 5051313577465884239
+    second: Bodvar_Winer_43
+  - first:
+      213: 4846388385903194491
+    second: Bodvar_Winer_44
+  - first:
+      213: 5984106611617220712
+    second: Bodvar_Winer_45
+  - first:
+      213: 1843728136672489774
+    second: Bodvar_Winer_46
+  - first:
+      213: 1387473627893544548
+    second: Bodvar_Winer_47
+  - first:
+      213: 4913593301403871193
+    second: Bodvar_Winer_48
+  - first:
+      213: -6006738211138929424
+    second: Bodvar_Winer_49
+  - first:
+      213: 896112562347081071
+    second: Bodvar_Winer_50
+  - first:
+      213: -4804137039275310958
+    second: Bodvar_Winer_51
+  - first:
+      213: 7867493926543243172
+    second: Bodvar_Winer_52
+  - first:
+      213: 8859505608179773664
+    second: Bodvar_Winer_53
+  - first:
+      213: 4904272616952972878
+    second: Bodvar_Winer_54
+  - first:
+      213: 6377625030828578662
+    second: Bodvar_Winer_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bodvar_Winer_0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2928
+        width: 144
+        height: 154
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f444e711181498840800000000000000
+      internalID: 5226780865140245583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_1
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2928
+        width: 149
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a598ddc004f0c10800000000000000
+      internalID: 2021905181713193622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2928
+        width: 149
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec607500e1fede0800000000000000
+      internalID: -1301788780477886777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_3
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2928
+        width: 175
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37eb093a8e336720800000000000000
+      internalID: 2838180953557034815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_4
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2928
+        width: 184
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347bd271b1cb752b0800000000000000
+      internalID: -5595797187445541053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_5
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2928
+        width: 187
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72935ef5f2689f20800000000000000
+      internalID: 3429599924916032127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_6
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2928
+        width: 190
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1497dc9979f31ccd0800000000000000
+      internalID: -2539678794507257535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_7
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 2928
+        width: 210
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b94beb708953b70800000000000000
+      internalID: 8878169399462501227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2474
+        width: 214
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d195220890865b0800000000000000
+      internalID: -5375035709329957549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2474
+        width: 228
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d52de377fee4510800000000000000
+      internalID: 1535427818414038387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_10
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2474
+        width: 226
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3854b61268cb7ba10800000000000000
+      internalID: 1925214649996494211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_11
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2474
+        width: 223
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d904210c57659c0800000000000000
+      internalID: -3938831356288525040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_12
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2474
+        width: 222
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4371c75f6017dd000800000000000000
+      internalID: 62330244555347764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_13
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2474
+        width: 222
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f597549b9a701a730800000000000000
+      internalID: 4008493568875657567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_14
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2474
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa8182f07c2de700800000000000000
+      internalID: 571161591362456309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_15
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 2474
+        width: 224
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305f3a47bd2c130800000000000000
+      internalID: 3585669547353768740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2030
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4016903d33f990800000000000000
+      internalID: -7353466487680513434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_17
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 2030
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5281ab73f1c03d30800000000000000
+      internalID: 4409237286691111517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_18
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2030
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db84f3e65fdb2b6a0800000000000000
+      internalID: -6434872055744739139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_19
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2030
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847bd596977ab5bf0800000000000000
+      internalID: -334489607408339128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_20
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2030
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e8c54633363a690800000000000000
+      internalID: -7592115474438255072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_21
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2030
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426ba05ef2c688ca0800000000000000
+      internalID: -6014438349391350236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_22
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 2030
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4c72d43faa2e4d0800000000000000
+      internalID: -3106732830983994120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_23
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 2030
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db6ec5d8f85d0150800000000000000
+      internalID: 5840422117531610067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1568
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0e5032dba7131e0800000000000000
+      internalID: -2219858188561948433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_25
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1568
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da56788b09246e170800000000000000
+      internalID: 8207320560267912621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_26
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1568
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123a78b5dbe67a2b0800000000000000
+      internalID: -5573364254284209375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_27
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1568
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0994f75ed5d444330800000000000000
+      internalID: 3694162660028270992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_28
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1568
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77f0f1695f4ef580800000000000000
+      internalID: -8791502177266763907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_29
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1568
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff707dfd2a76adb0800000000000000
+      internalID: -4780999616463077382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_30
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1568
+        width: 223
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd7fc83d1aa584a0800000000000000
+      internalID: -6591675437102957090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_31
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1568
+        width: 223
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6092e9044f27a80800000000000000
+      internalID: -8470439390761908489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1108
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8b01e70f4d56850800000000000000
+      internalID: 6369731377357699245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1108
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffed22fdebf28b70800000000000000
+      internalID: 8899952813026439153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_34
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1108
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa572fe37cfd33c50800000000000000
+      internalID: 6643899922149176746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_35
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1108
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8432d9858c5595c0800000000000000
+      internalID: -4209356548095200118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_36
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1108
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adba011bd11028060800000000000000
+      internalID: 6954122001649806298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_37
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1108
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f9f8ab429f99f0800000000000000
+      internalID: -459487783313346258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_38
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1108
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5121393df83a00980800000000000000
+      internalID: -8574673852388142571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_39
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 1108
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab06e0ba063180eb0800000000000000
+      internalID: -4753528100781924166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 647
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185a5e936c0ffe140800000000000000
+      internalID: 4751280866064704897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_41
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 647
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e8aada70c067ac0800000000000000
+      internalID: -3857882803678310788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_42
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 647
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c4de95479eae990800000000000000
+      internalID: -7355810355422081916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_43
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 647
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e26f98feed91640800000000000000
+      internalID: 5051313577465884239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_44
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 647
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71b6594f84d14340800000000000000
+      internalID: 4846388385903194491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_45
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 647
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868c2831241db0350800000000000000
+      internalID: 5984106611617220712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_46
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 647
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b1c8c8fc369910800000000000000
+      internalID: 1843728136672489774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_47
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 647
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46631d5d9eb414310800000000000000
+      internalID: 1387473627893544548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 186
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7aae40317903440800000000000000
+      internalID: 4913593301403871193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_49
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 186
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc7c4a0c67c3aca0800000000000000
+      internalID: -6006738211138929424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_50
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 186
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d767da0a1af6c00800000000000000
+      internalID: 896112562347081071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_51
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 186
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c2b1f0d6445db0800000000000000
+      internalID: -4804137039275310958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_52
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 186
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7372cda04fe2d60800000000000000
+      internalID: 7867493926543243172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_53
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 186
+        width: 223
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0f225396943fa70800000000000000
+      internalID: 8859505608179773664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_54
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 186
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46482f06f97f0440800000000000000
+      internalID: 4904272616952972878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bodvar_Winer_55
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 186
+        width: 224
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6675d29ec20e18850800000000000000
+      internalID: 6377625030828578662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2c232862cd8e1d4dad207e4f60ff7b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bodvar_Winer_0: 5226780865140245583
+      Bodvar_Winer_1: 2021905181713193622
+      Bodvar_Winer_10: 1925214649996494211
+      Bodvar_Winer_11: -3938831356288525040
+      Bodvar_Winer_12: 62330244555347764
+      Bodvar_Winer_13: 4008493568875657567
+      Bodvar_Winer_14: 571161591362456309
+      Bodvar_Winer_15: 3585669547353768740
+      Bodvar_Winer_16: -7353466487680513434
+      Bodvar_Winer_17: 4409237286691111517
+      Bodvar_Winer_18: -6434872055744739139
+      Bodvar_Winer_19: -334489607408339128
+      Bodvar_Winer_2: -1301788780477886777
+      Bodvar_Winer_20: -7592115474438255072
+      Bodvar_Winer_21: -6014438349391350236
+      Bodvar_Winer_22: -3106732830983994120
+      Bodvar_Winer_23: 5840422117531610067
+      Bodvar_Winer_24: -2219858188561948433
+      Bodvar_Winer_25: 8207320560267912621
+      Bodvar_Winer_26: -5573364254284209375
+      Bodvar_Winer_27: 3694162660028270992
+      Bodvar_Winer_28: -8791502177266763907
+      Bodvar_Winer_29: -4780999616463077382
+      Bodvar_Winer_3: 2838180953557034815
+      Bodvar_Winer_30: -6591675437102957090
+      Bodvar_Winer_31: -8470439390761908489
+      Bodvar_Winer_32: 6369731377357699245
+      Bodvar_Winer_33: 8899952813026439153
+      Bodvar_Winer_34: 6643899922149176746
+      Bodvar_Winer_35: -4209356548095200118
+      Bodvar_Winer_36: 6954122001649806298
+      Bodvar_Winer_37: -459487783313346258
+      Bodvar_Winer_38: -8574673852388142571
+      Bodvar_Winer_39: -4753528100781924166
+      Bodvar_Winer_4: -5595797187445541053
+      Bodvar_Winer_40: 4751280866064704897
+      Bodvar_Winer_41: -3857882803678310788
+      Bodvar_Winer_42: -7355810355422081916
+      Bodvar_Winer_43: 5051313577465884239
+      Bodvar_Winer_44: 4846388385903194491
+      Bodvar_Winer_45: 5984106611617220712
+      Bodvar_Winer_46: 1843728136672489774
+      Bodvar_Winer_47: 1387473627893544548
+      Bodvar_Winer_48: 4913593301403871193
+      Bodvar_Winer_49: -6006738211138929424
+      Bodvar_Winer_5: 3429599924916032127
+      Bodvar_Winer_50: 896112562347081071
+      Bodvar_Winer_51: -4804137039275310958
+      Bodvar_Winer_52: 7867493926543243172
+      Bodvar_Winer_53: 8859505608179773664
+      Bodvar_Winer_54: 4904272616952972878
+      Bodvar_Winer_55: 6377625030828578662
+      Bodvar_Winer_6: -2539678794507257535
+      Bodvar_Winer_7: 8878169399462501227
+      Bodvar_Winer_8: -5375035709329957549
+      Bodvar_Winer_9: 1535427818414038387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

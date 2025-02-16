@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: cd2eb8623291d3844baf0c1ae134f4ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8401385812601849351
+    second: CASSIDY_Idle_0
+  - first:
+      213: -8428451177159027130
+    second: CASSIDY_Idle_1
+  - first:
+      213: -8014989787494270156
+    second: CASSIDY_Idle_2
+  - first:
+      213: -7664997481752282014
+    second: CASSIDY_Idle_3
+  - first:
+      213: -781734791323374126
+    second: CASSIDY_Idle_4
+  - first:
+      213: 7679520385499689902
+    second: CASSIDY_Idle_5
+  - first:
+      213: 6872632953986071970
+    second: CASSIDY_Idle_6
+  - first:
+      213: 4567915115686584999
+    second: CASSIDY_Idle_7
+  - first:
+      213: 6974151751515214435
+    second: CASSIDY_Idle_8
+  - first:
+      213: 8050197791630261964
+    second: CASSIDY_Idle_9
+  - first:
+      213: 4605146278409781739
+    second: CASSIDY_Idle_10
+  - first:
+      213: 6601759073626245854
+    second: CASSIDY_Idle_11
+  - first:
+      213: -8702647581305433245
+    second: CASSIDY_Idle_12
+  - first:
+      213: -7817919302822647085
+    second: CASSIDY_Idle_13
+  - first:
+      213: -6639955966301482701
+    second: CASSIDY_Idle_14
+  - first:
+      213: 3538289671992686156
+    second: CASSIDY_Idle_15
+  - first:
+      213: -5735733706152950605
+    second: CASSIDY_Idle_16
+  - first:
+      213: -7588417312303864677
+    second: CASSIDY_Idle_17
+  - first:
+      213: 6991511350423331617
+    second: CASSIDY_Idle_18
+  - first:
+      213: 7021608341103818922
+    second: CASSIDY_Idle_19
+  - first:
+      213: -5402914173184342307
+    second: CASSIDY_Idle_20
+  - first:
+      213: 8892236928049425619
+    second: CASSIDY_Idle_21
+  - first:
+      213: -5855334151146655904
+    second: CASSIDY_Idle_22
+  - first:
+      213: 6651183193891019495
+    second: CASSIDY_Idle_23
+  - first:
+      213: 6455538083208150607
+    second: CASSIDY_Idle_24
+  - first:
+      213: -6758321205528054025
+    second: CASSIDY_Idle_25
+  - first:
+      213: -898058368852698604
+    second: CASSIDY_Idle_26
+  - first:
+      213: 2729211858050094549
+    second: CASSIDY_Idle_27
+  - first:
+      213: 945140392535070380
+    second: CASSIDY_Idle_28
+  - first:
+      213: 12640456686631698
+    second: CASSIDY_Idle_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CASSIDY_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2595
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f93cdaad18486b80800000000000000
+      internalID: -8401385812601849351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2595
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64696ba6f40280b80800000000000000
+      internalID: -8428451177159027130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2595
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b3506e04905c090800000000000000
+      internalID: -8014989787494270156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 2595
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c34e7b66570a590800000000000000
+      internalID: -7664997481752282014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 2595
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd2b9e5958b625f0800000000000000
+      internalID: -781734791323374126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2109
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3741f4a13239a60800000000000000
+      internalID: 7679520385499689902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2109
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adbbf5424f706f50800000000000000
+      internalID: 6872632953986071970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2109
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2e2aa889e746f30800000000000000
+      internalID: 4567915115686584999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 2109
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3629bbe311a29c060800000000000000
+      internalID: 6974151751515214435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 2109
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce71cd5d3c08bf60800000000000000
+      internalID: 8050197791630261964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1624
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1c35f1424c8ef30800000000000000
+      internalID: 4605146278409781739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1624
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda443c56e82e9b50800000000000000
+      internalID: 6601759073626245854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1624
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36390e6222cf93780800000000000000
+      internalID: -8702647581305433245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1623
+        width: 213
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da2690b0db218390800000000000000
+      internalID: -7817919302822647085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1623
+        width: 213
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3315d588a332ad3a0800000000000000
+      internalID: -6639955966301482701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1138
+        width: 213
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46be83c5b78a1130800000000000000
+      internalID: 3538289671992686156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1138
+        width: 213
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c48e55949660b0800000000000000
+      internalID: -5735733706152950605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1138
+        width: 213
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9424bcd8a680b690800000000000000
+      internalID: -7588417312303864677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1138
+        width: 213
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1232815d786d60160800000000000000
+      internalID: 6991511350423331617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1139
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8b96b8593c17160800000000000000
+      internalID: 7021608341103818922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 654
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd68c637f2ef405b0800000000000000
+      internalID: -5402914173184342307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 654
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc2ffa7f52976b70800000000000000
+      internalID: 8892236928049425619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 654
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fa0b7cc9cadbea0800000000000000
+      internalID: -5855334151146655904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 654
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea1ce710efbd4c50800000000000000
+      internalID: 6651183193891019495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 654
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb0ab0fada69950800000000000000
+      internalID: 6455538083208150607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 170
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6b282bbae9532a0800000000000000
+      internalID: -6758321205528054025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 170
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ad7f0fba47983f0800000000000000
+      internalID: -898058368852698604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 170
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d51cd399bb10e520800000000000000
+      internalID: 2729211858050094549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 170
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca61defed20dd1d00800000000000000
+      internalID: 945140392535070380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CASSIDY_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 170
+        width: 213
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bfa9aad68ec2000800000000000000
+      internalID: 12640456686631698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CASSIDY_Idle_0: -8401385812601849351
+      CASSIDY_Idle_1: -8428451177159027130
+      CASSIDY_Idle_10: 4605146278409781739
+      CASSIDY_Idle_11: 6601759073626245854
+      CASSIDY_Idle_12: -8702647581305433245
+      CASSIDY_Idle_13: -7817919302822647085
+      CASSIDY_Idle_14: -6639955966301482701
+      CASSIDY_Idle_15: 3538289671992686156
+      CASSIDY_Idle_16: -5735733706152950605
+      CASSIDY_Idle_17: -7588417312303864677
+      CASSIDY_Idle_18: 6991511350423331617
+      CASSIDY_Idle_19: 7021608341103818922
+      CASSIDY_Idle_2: -8014989787494270156
+      CASSIDY_Idle_20: -5402914173184342307
+      CASSIDY_Idle_21: 8892236928049425619
+      CASSIDY_Idle_22: -5855334151146655904
+      CASSIDY_Idle_23: 6651183193891019495
+      CASSIDY_Idle_24: 6455538083208150607
+      CASSIDY_Idle_25: -6758321205528054025
+      CASSIDY_Idle_26: -898058368852698604
+      CASSIDY_Idle_27: 2729211858050094549
+      CASSIDY_Idle_28: 945140392535070380
+      CASSIDY_Idle_29: 12640456686631698
+      CASSIDY_Idle_3: -7664997481752282014
+      CASSIDY_Idle_4: -781734791323374126
+      CASSIDY_Idle_5: 7679520385499689902
+      CASSIDY_Idle_6: 6872632953986071970
+      CASSIDY_Idle_7: 4567915115686584999
+      CASSIDY_Idle_8: 6974151751515214435
+      CASSIDY_Idle_9: 8050197791630261964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
