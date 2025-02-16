@@ -123,7 +123,7 @@ public class PickUpItem : MonoBehaviour
         GameObject itemPrefab = GetByType(itemType);
 
         float speed = player.GetComponent<PlayerMove>().GetSpeed();
-        int direction = player.GetComponent<PlayerMove>().direction > 0 ? 1 : -1;
+        int direction = player.GetComponent<PlayerMove>().directionB ? 1 : -1;
         Vector3 throwDirection = new Vector3(direction, 0, 0);
 
         animationObject.GetComponent<Animator>().SetTrigger("slight");

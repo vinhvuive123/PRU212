@@ -1494,12 +1494,18 @@ MonoBehaviour:
   selectMap_Stage: {fileID: 1456154764}
   NextToPlayGameButton: {fileID: 317292587}
   listSpriteMap:
-  - {fileID: -4243687441863014914, guid: b804f2bb9ac91574993f353dc2778d26, type: 3}
-  - {fileID: 2234590917057617964, guid: ed083de691ba36347ac1f7277ee1594a, type: 3}
-  - {fileID: 1537369337291128895, guid: 4f3b025fda2c0984cb0a2b494e600666, type: 3}
+  - {fileID: 3226983705890994353, guid: 1ea045e0563495b43aa6d1a64909e710, type: 3}
+  - {fileID: -4837552100399911116, guid: 947f48da0ea456b429b56d1229f11a8c, type: 3}
+  - {fileID: -7466155043236944880, guid: f3abebdb5649d9842b84627deb88a902, type: 3}
+  - {fileID: -337063283399342595, guid: 431f8390fc5c9fe4ab023e0a907bdd92, type: 3}
+  - {fileID: 7263042567513338232, guid: 00ca4492b1816a14eb8356453d1f9eac, type: 3}
+  - {fileID: -1904626937894437161, guid: 9792b7295cbd32b429d954a9450fe39e, type: 3}
   listNameMap:
   - Brawlhaven - Godhome
   - Turtle's Lair - Tower of Love
+  - Enigma - White palace
+  - Enigma - White palace
+  - Enigma - White palace
   - Enigma - White palace
   Canvas_SelectMap: {fileID: 1430931064}
   selectPlayer_Stage: {fileID: 2023658589}

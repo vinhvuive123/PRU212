@@ -102,10 +102,10 @@ public class GameController : MonoBehaviour
 
         // set skin player 
         GameObject animationPlayerKeyBoard = playerKeyBoard.transform.Find("Animation")?.gameObject;
-        GameObject animationPlayerController = playerKeyBoard.transform.Find("Animation")?.gameObject;
+        GameObject animationPlayerController = playerController.transform.Find("Animation")?.gameObject;
 
         animationPlayerKeyBoard.GetComponent<CustomizableCharacter>().SkinNr = playerId1;
-        animationPlayerKeyBoard.GetComponent<CustomizableCharacter>().SkinNr = playerId2;
+        animationPlayerController.GetComponent<CustomizableCharacter>().SkinNr = playerId2;
 
         // set map 
         GenerateMapById(mapId, groundAndPlatForm.transform.position, groundAndPlatForm.transform.rotation);

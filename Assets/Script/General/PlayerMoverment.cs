@@ -47,6 +47,7 @@ public class PlayerMove : MonoBehaviour
         //controls.Keyboard.DownMovement.performed += ctx => Down();
 
         //Debug.Log(gameObject.name + " isController : " + isControllerPlayer);
+        directionB = false;
         if (isControllerPlayer)
         {
             // Configure for player using controller
@@ -84,6 +85,8 @@ public class PlayerMove : MonoBehaviour
     }
     public float direction;
 
+    public bool directionB = false;
+
     private bool isHit = false;
 
     private void FixedUpdate()
@@ -106,12 +109,14 @@ public class PlayerMove : MonoBehaviour
                     Vector3 rotate = transform.eulerAngles;
                     rotate.y = 0;
                     Animation.transform.eulerAngles = rotate;
+                    directionB = true;
                 }
                 else if (direction < 0)
                 {
                     Vector3 rotate = transform.eulerAngles;
                     rotate.y = 180;
                     Animation.transform.eulerAngles = rotate;
+                    directionB = false;
                 }
             }
         }

@@ -42,10 +42,10 @@ public class ButtonAnimationControllerScript : MonoBehaviour
 	int indexMap = 0;
 	int index = 0;
 	int click = 0;
-	int map = -1;
+	int map = 0;
 
-	int player1 = -1;
-	int player2 = -1;
+	int player1 = 0;
+	int player2 = 0;
 
 	Color colorDoTrongSuot ;
 	private void Start()
@@ -114,7 +114,7 @@ public class ButtonAnimationControllerScript : MonoBehaviour
 		if (click == 1)
 		{
 			//buttonSelectCharacter.interactable = false; 
-			Debug.Log("1");
+			Debug.Log("1 - " + index);
 			StartCoroutine(ShowAndHideUI(AnimationAfterSelect, 2));
 			// gan sprite va hien thi avatar1
 			stateText.text = "Select Player 2";
@@ -123,10 +123,11 @@ public class ButtonAnimationControllerScript : MonoBehaviour
 			colorDoTrongSuot.a = 255.0f;
 			Player1_Avatar.color = colorDoTrongSuot;
 			player1 = index;
+			GameInfo.Instance.player1ID = index;
 		}
 		if (click ==2)
 		{
-			Debug.Log("2");
+			Debug.Log("2 - "+ index);
 			StartCoroutine(ShowAndHideUI(AnimationAfterSelect, 2));
 			// gan sprite va hien thi avatar2
 			stateText.text = "Ready To Select Map";
@@ -137,6 +138,7 @@ public class ButtonAnimationControllerScript : MonoBehaviour
 			//sau khi chon xong 2 nhan vat, hien thi nut next stage va kich hoat no
 			nextStage.GetComponent<Image>().color = colorDoTrongSuot;
 			nextStage.interactable = true;
+			GameInfo.Instance.player2ID = index;
 		}
 	}
 	public int GetIndexLeft(int i,int countList)
@@ -248,7 +250,7 @@ public class ButtonAnimationControllerScript : MonoBehaviour
 		colorDoTrongSuot.a = 255.0f;
 		NextToPlayGameButton.GetComponent<Image>().color = colorDoTrongSuot;
 		NextToPlayGameButton.interactable = true;
-
+		GameInfo.Instance.mapID = indexMap;
 	}
 	public void NextToPlayGameButtonOnPress()
 	{

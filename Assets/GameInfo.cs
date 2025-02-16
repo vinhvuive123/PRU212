@@ -56,8 +56,8 @@ public class GameInfo : MonoBehaviour
 	// Example method to reset game info
 	public void ResetGameInfo()
 	{
-		mapID = -1;
-		player1ID = -1;
-		player2ID = -1;
+		mapID = 0;
+		player1ID = 0;
+		player2ID = 0;
 	}
 }
