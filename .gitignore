@@ -26,7 +26,7 @@
 # Visual Studio cache directory
 .vs/
 
-/Assets/Sprite/Map/*
+
 
 # Gradle cache directory
 .gradle/

@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 97fe4e9c428743e4c8821217d55a0e5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1963321059891642636
+    second: Platform_WarShuttle1_0
+  - first:
+      213: 5811375266552661462
+    second: Platform_WarShuttle1_1
+  - first:
+      213: -2851097581489027165
+    second: Platform_WarShuttle1_2
+  - first:
+      213: -2040136580266847698
+    second: Platform_WarShuttle1_3
+  - first:
+      213: -5446462165823791571
+    second: Platform_WarShuttle1_4
+  - first:
+      213: 8455741272734162315
+    second: Platform_WarShuttle1_5
+  - first:
+      213: -8015564395050870611
+    second: Platform_WarShuttle1_6
+  - first:
+      213: -3590008904378773503
+    second: Platform_WarShuttle1_7
+  - first:
+      213: 1442001551897453880
+    second: Platform_WarShuttle1_8
+  - first:
+      213: -5334650214715843751
+    second: Platform_WarShuttle1_9
+  - first:
+      213: -8535525974351778585
+    second: Platform_WarShuttle1_10
+  - first:
+      213: -7982622633295668490
+    second: Platform_WarShuttle1_11
+  - first:
+      213: -4241101342695935749
+    second: Platform_WarShuttle1_12
+  - first:
+      213: -3524946109908703006
+    second: Platform_WarShuttle1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 1495
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -733.5, y: -81.01932}
+        - {x: -509.5, y: -287}
+        - {x: 500.5, y: -296}
+        - {x: 727.2329, y: -70.883026}
+        - {x: 728.5, y: 282}
+        - {x: -733.5, y: 282}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe7d1de5e1e0c4e0800000000000000
+      internalID: -1963321059891642636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 20
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5cc53d30726a050800000000000000
+      internalID: 5811375266552661462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 18
+        width: 132
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a70f5bfaddde68d0800000000000000
+      internalID: -2851097581489027165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 18
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e221aefd69affa3e0800000000000000
+      internalID: -2040136580266847698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 14
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ed77b44874a64b0800000000000000
+      internalID: -5446462165823791571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 7
+        width: 102
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ddde913e3d85570800000000000000
+      internalID: 8455741272734162315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da859b6a6aef2c090800000000000000
+      internalID: -8015564395050870611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 8
+        width: 130
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10093021ce9bd2ec0800000000000000
+      internalID: -3590008904378773503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_8
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 38
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835e86a75c4030410800000000000000
+      internalID: 1442001551897453880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 19
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b96e6d4e387f5b0800000000000000
+      internalID: -5334650214715843751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_10
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 20
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec64a77958bb8980800000000000000
+      internalID: -8535525974351778585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_11
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 19
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa1b6e3207083190800000000000000
+      internalID: -7982622633295668490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_12
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 17
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf03d249cc49425c0800000000000000
+      internalID: -4241101342695935749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform_WarShuttle1_13
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 15
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e82f726030e41fc0800000000000000
+      internalID: -3524946109908703006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8325106260872b94dbb1097d74b692ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Platform_WarShuttle1_0: -1963321059891642636
+      Platform_WarShuttle1_1: 5811375266552661462
+      Platform_WarShuttle1_10: -8535525974351778585
+      Platform_WarShuttle1_11: -7982622633295668490
+      Platform_WarShuttle1_12: -4241101342695935749
+      Platform_WarShuttle1_13: -3524946109908703006
+      Platform_WarShuttle1_2: -2851097581489027165
+      Platform_WarShuttle1_3: -2040136580266847698
+      Platform_WarShuttle1_4: -5446462165823791571
+      Platform_WarShuttle1_5: 8455741272734162315
+      Platform_WarShuttle1_6: -8015564395050870611
+      Platform_WarShuttle1_7: -3590008904378773503
+      Platform_WarShuttle1_8: 1442001551897453880
+      Platform_WarShuttle1_9: -5334650214715843751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
