@@ -1,4 +1,4 @@
-using DG.Tweening;
+﻿using DG.Tweening;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -127,10 +127,10 @@ public class PlayerMove : MonoBehaviour
     //[SerializeField] private float attackStrength = 10f;  // Strength of the attack
     [SerializeField] private float damagePercentage = 1f;  // Player's current damage percentage
 
-
+    
     public void ApplyKnockback(Vector3 collisionPosition, float attackStrength)
     {
-
+        //logic về damge
         if (isHit) { return; }
 
         damagePercentage = gameObject.GetComponent<Player>().GetVulnerability();
